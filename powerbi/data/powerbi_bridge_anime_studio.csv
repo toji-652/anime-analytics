@@ -1,0 +1,3758 @@
+anime_id,studio_id,studio_name,is_primary_studio
+34572,1,Studio Pierrot,1
+1,1,Sunrise,1
+5114,1,Bones,1
+9253,1,White Fox,1
+11061,1,Madhouse,1
+16498,1,Wit Studio,1
+1535,1,Madhouse,1
+30276,1,Madhouse,1
+20,1,Studio Pierrot,1
+21,1,Toei Animation,1
+38000,1,Ufotable,1
+40748,1,MAPPA,1
+31964,1,Bones,1
+44511,1,MAPPA,1
+52299,1,A-1 Pictures,1
+11757,1,A-1 Pictures,1
+22319,1,Studio Pierrot,1
+6702,1,A-1 Pictures,1
+30694,1,Toei Animation,1
+19,1,Madhouse,1
+205,1,Manglobe,1
+199,1,Studio Ghibli,1
+37521,1,Wit Studio,1
+30,1,Lerche,1
+31,1,Sunrise,1
+31,2,J.C.Staff,0
+32,1,David Production,1
+33,1,CloverWorks,1
+34,1,A-1 Pictures,1
+34,2,White Fox,0
+35,1,White Fox,1
+35,2,Studio Ghibli,0
+36,1,Toei Animation,1
+36,2,Madhouse,0
+37,1,White Fox,1
+37,2,wit Studio,0
+38,1,Trigger,1
+39,1,Toei Animation,1
+39,2,Trigger,0
+40,1,Studio Ghibli,1
+40,2,Kinema Citrus,0
+41,1,wit Studio,1
+42,1,Lerche,1
+43,1,Bones,1
+43,2,Toei Animation,0
+44,1,J.C.Staff,1
+45,1,Madhouse,1
+46,1,A-1 Pictures,1
+46,2,Kyoto Animation,0
+47,1,Kinema Citrus,1
+48,1,A-1 Pictures,1
+49,1,A-1 Pictures,1
+49,2,Madhouse,0
+50,1,Trigger,1
+51,1,Doga Kobo,1
+51,2,David Production,0
+52,1,CloverWorks,1
+53,1,Ufotable,1
+53,2,White Fox,0
+54,1,Ufotable,1
+54,2,David Production,0
+55,1,Doga Kobo,1
+55,2,wit Studio,0
+56,1,Doga Kobo,1
+57,1,Lerche,1
+58,1,Shaft,1
+59,1,Madhouse,1
+59,2,Trigger,0
+60,1,David Production,1
+61,1,Production I.G,1
+62,1,CloverWorks,1
+62,2,Silver Link.,0
+63,1,Sunrise,1
+63,2,CloverWorks,0
+64,1,A-1 Pictures,1
+65,1,Sunrise,1
+66,1,J.C.Staff,1
+67,1,Silver Link.,1
+68,1,P.A. Works,1
+68,2,Production I.G,0
+69,1,Silver Link.,1
+69,2,Doga Kobo,0
+70,1,Trigger,1
+70,2,Sunrise,0
+71,1,CloverWorks,1
+72,1,wit Studio,1
+73,1,J.C.Staff,1
+73,2,MAPPA,0
+74,1,Shaft,1
+74,2,Studio Ghibli,0
+75,1,Toei Animation,1
+75,2,Bones,0
+76,1,Kyoto Animation,1
+77,1,P.A. Works,1
+77,2,MAPPA,0
+78,1,MAPPA,1
+79,1,TMS Entertainment,1
+80,1,A-1 Pictures,1
+80,2,J.C.Staff,0
+81,1,Trigger,1
+81,2,Madhouse,0
+82,1,Doga Kobo,1
+82,2,Shaft,0
+83,1,Bones,1
+84,1,Kyoto Animation,1
+84,2,Doga Kobo,0
+85,1,Studio Ghibli,1
+85,2,wit Studio,0
+86,1,Kinema Citrus,1
+87,1,White Fox,1
+87,2,Toei Animation,0
+88,1,Studio Pierrot,1
+88,2,White Fox,0
+89,1,J.C.Staff,1
+90,1,Studio Ghibli,1
+91,1,Studio Pierrot,1
+91,2,Bones,0
+92,1,Bones,1
+92,2,White Fox,0
+93,1,Production I.G,1
+94,1,Trigger,1
+94,2,Ufotable,0
+95,1,Doga Kobo,1
+95,2,Bones,0
+96,1,Trigger,1
+97,1,Studio Pierrot,1
+97,2,Lerche,0
+98,1,Bones,1
+98,2,Production I.G,0
+99,1,Studio Pierrot,1
+100,1,David Production,1
+101,1,CloverWorks,1
+101,2,TMS Entertainment,0
+102,1,Studio Ghibli,1
+102,2,Kinema Citrus,0
+103,1,wit Studio,1
+103,2,Lerche,0
+104,1,Silver Link.,1
+105,1,Production I.G,1
+106,1,wit Studio,1
+106,2,Ufotable,0
+107,1,Silver Link.,1
+107,2,Doga Kobo,0
+108,1,Ufotable,1
+109,1,MAPPA,1
+109,2,wit Studio,0
+110,1,TMS Entertainment,1
+111,1,TMS Entertainment,1
+112,1,Kinema Citrus,1
+113,1,Studio Ghibli,1
+113,2,Silver Link.,0
+114,1,MAPPA,1
+115,1,wit Studio,1
+116,1,Kinema Citrus,1
+116,2,Doga Kobo,0
+117,1,MAPPA,1
+117,2,A-1 Pictures,0
+118,1,Production I.G,1
+118,2,Lerche,0
+119,1,Studio Pierrot,1
+119,2,Kinema Citrus,0
+120,1,David Production,1
+121,1,MAPPA,1
+121,2,CloverWorks,0
+122,1,MAPPA,1
+123,1,Bones,1
+123,2,CloverWorks,0
+124,1,Studio Ghibli,1
+124,2,Doga Kobo,0
+125,1,Toei Animation,1
+125,2,Studio Pierrot,0
+126,1,Lerche,1
+127,1,Ufotable,1
+128,1,Toei Animation,1
+129,1,MAPPA,1
+130,1,Ufotable,1
+130,2,Kinema Citrus,0
+131,1,J.C.Staff,1
+131,2,P.A. Works,0
+132,1,Sunrise,1
+133,1,Kinema Citrus,1
+134,1,P.A. Works,1
+134,2,Studio Ghibli,0
+135,1,MAPPA,1
+135,2,J.C.Staff,0
+136,1,Doga Kobo,1
+137,1,Production I.G,1
+138,1,Toei Animation,1
+138,2,A-1 Pictures,0
+139,1,Sunrise,1
+140,1,MAPPA,1
+140,2,Studio Ghibli,0
+141,1,wit Studio,1
+142,1,Silver Link.,1
+142,2,David Production,0
+143,1,Madhouse,1
+144,1,Ufotable,1
+144,2,Madhouse,0
+145,1,wit Studio,1
+145,2,Trigger,0
+146,1,wit Studio,1
+147,1,David Production,1
+147,2,P.A. Works,0
+148,1,Madhouse,1
+149,1,Kinema Citrus,1
+150,1,Doga Kobo,1
+150,2,Shaft,0
+151,1,MAPPA,1
+151,2,Studio Pierrot,0
+152,1,Kyoto Animation,1
+153,1,wit Studio,1
+153,2,P.A. Works,0
+154,1,White Fox,1
+155,1,wit Studio,1
+156,1,P.A. Works,1
+156,2,J.C.Staff,0
+157,1,Bones,1
+157,2,Sunrise,0
+158,1,Studio Ghibli,1
+159,1,Trigger,1
+159,2,Lerche,0
+160,1,Silver Link.,1
+161,1,Trigger,1
+162,1,Toei Animation,1
+163,1,White Fox,1
+164,1,Trigger,1
+164,2,CloverWorks,0
+165,1,Studio Ghibli,1
+166,1,Silver Link.,1
+166,2,Doga Kobo,0
+167,1,Kinema Citrus,1
+167,2,wit Studio,0
+168,1,Trigger,1
+169,1,Madhouse,1
+170,1,MAPPA,1
+170,2,Sunrise,0
+171,1,Ufotable,1
+171,2,Kinema Citrus,0
+172,1,A-1 Pictures,1
+173,1,Studio Ghibli,1
+173,2,J.C.Staff,0
+174,1,TMS Entertainment,1
+175,1,Sunrise,1
+175,2,Kinema Citrus,0
+176,1,Ufotable,1
+176,2,A-1 Pictures,0
+177,1,P.A. Works,1
+178,1,A-1 Pictures,1
+178,2,Madhouse,0
+179,1,Silver Link.,1
+180,1,Toei Animation,1
+181,1,Toei Animation,1
+181,2,Doga Kobo,0
+182,1,Studio Ghibli,1
+182,2,Ufotable,0
+183,1,David Production,1
+184,1,TMS Entertainment,1
+185,1,Doga Kobo,1
+185,2,CloverWorks,0
+186,1,David Production,1
+186,2,P.A. Works,0
+187,1,P.A. Works,1
+187,2,Toei Animation,0
+188,1,Silver Link.,1
+188,2,CloverWorks,0
+189,1,Silver Link.,1
+190,1,Ufotable,1
+191,1,wit Studio,1
+191,2,Toei Animation,0
+192,1,Studio Ghibli,1
+192,2,Bones,0
+193,1,Silver Link.,1
+194,1,Ufotable,1
+194,2,Studio Ghibli,0
+195,1,TMS Entertainment,1
+195,2,J.C.Staff,0
+196,1,Sunrise,1
+196,2,Shaft,0
+197,1,Bones,1
+197,2,Trigger,0
+198,1,David Production,1
+200,1,P.A. Works,1
+200,2,Doga Kobo,0
+201,1,Kinema Citrus,1
+201,2,Lerche,0
+202,1,White Fox,1
+202,2,TMS Entertainment,0
+203,1,David Production,1
+204,1,wit Studio,1
+204,2,Lerche,0
+206,1,J.C.Staff,1
+206,2,A-1 Pictures,0
+207,1,Shaft,1
+208,1,CloverWorks,1
+209,1,White Fox,1
+210,1,Bones,1
+211,1,Shaft,1
+212,1,Toei Animation,1
+212,2,Sunrise,0
+213,1,A-1 Pictures,1
+214,1,Toei Animation,1
+215,1,J.C.Staff,1
+215,2,Ufotable,0
+216,1,Kinema Citrus,1
+216,2,Ufotable,0
+217,1,Shaft,1
+218,1,Studio Pierrot,1
+218,2,Kinema Citrus,0
+219,1,MAPPA,1
+220,1,Sunrise,1
+220,2,Bones,0
+221,1,Madhouse,1
+222,1,TMS Entertainment,1
+223,1,Silver Link.,1
+224,1,Toei Animation,1
+225,1,Studio Ghibli,1
+225,2,Trigger,0
+226,1,Lerche,1
+226,2,White Fox,0
+227,1,J.C.Staff,1
+228,1,Madhouse,1
+229,1,White Fox,1
+230,1,Sunrise,1
+231,1,Ufotable,1
+231,2,J.C.Staff,0
+232,1,Toei Animation,1
+233,1,Silver Link.,1
+234,1,White Fox,1
+234,2,Shaft,0
+235,1,Silver Link.,1
+235,2,Madhouse,0
+236,1,P.A. Works,1
+237,1,David Production,1
+237,2,TMS Entertainment,0
+238,1,Sunrise,1
+238,2,wit Studio,0
+239,1,J.C.Staff,1
+239,2,Madhouse,0
+240,1,Silver Link.,1
+240,2,Trigger,0
+241,1,Toei Animation,1
+241,2,Shaft,0
+242,1,Studio Ghibli,1
+243,1,Kinema Citrus,1
+243,2,TMS Entertainment,0
+244,1,TMS Entertainment,1
+245,1,P.A. Works,1
+246,1,Trigger,1
+246,2,Ufotable,0
+247,1,David Production,1
+248,1,wit Studio,1
+248,2,A-1 Pictures,0
+249,1,Production I.G,1
+249,2,Kinema Citrus,0
+250,1,Kinema Citrus,1
+250,2,CloverWorks,0
+251,1,David Production,1
+251,2,P.A. Works,0
+252,1,Lerche,1
+253,1,Silver Link.,1
+253,2,Studio Pierrot,0
+254,1,Kyoto Animation,1
+254,2,Production I.G,0
+255,1,wit Studio,1
+256,1,David Production,1
+257,1,Madhouse,1
+257,2,White Fox,0
+258,1,TMS Entertainment,1
+258,2,Silver Link.,0
+259,1,Kyoto Animation,1
+259,2,J.C.Staff,0
+260,1,David Production,1
+261,1,J.C.Staff,1
+261,2,Toei Animation,0
+262,1,Sunrise,1
+262,2,Bones,0
+263,1,Lerche,1
+264,1,MAPPA,1
+265,1,Doga Kobo,1
+266,1,wit Studio,1
+266,2,Bones,0
+267,1,Madhouse,1
+268,1,David Production,1
+268,2,Toei Animation,0
+269,1,Studio Pierrot,1
+270,1,Toei Animation,1
+271,1,Trigger,1
+272,1,Trigger,1
+273,1,TMS Entertainment,1
+273,2,Madhouse,0
+274,1,Studio Ghibli,1
+275,1,Shaft,1
+276,1,White Fox,1
+277,1,David Production,1
+278,1,Production I.G,1
+279,1,P.A. Works,1
+280,1,Kinema Citrus,1
+281,1,Studio Pierrot,1
+281,2,Doga Kobo,0
+282,1,Sunrise,1
+283,1,CloverWorks,1
+284,1,wit Studio,1
+285,1,Toei Animation,1
+285,2,Ufotable,0
+286,1,Studio Ghibli,1
+286,2,Bones,0
+287,1,wit Studio,1
+288,1,White Fox,1
+288,2,Toei Animation,0
+289,1,TMS Entertainment,1
+289,2,wit Studio,0
+290,1,Doga Kobo,1
+290,2,Toei Animation,0
+291,1,Sunrise,1
+291,2,Trigger,0
+292,1,Kyoto Animation,1
+292,2,TMS Entertainment,0
+293,1,A-1 Pictures,1
+294,1,wit Studio,1
+295,1,A-1 Pictures,1
+295,2,Ufotable,0
+296,1,Production I.G,1
+296,2,Trigger,0
+297,1,Ufotable,1
+298,1,Doga Kobo,1
+299,1,Bones,1
+299,2,Madhouse,0
+300,1,White Fox,1
+300,2,CloverWorks,0
+301,1,Studio Ghibli,1
+302,1,David Production,1
+302,2,Studio Pierrot,0
+303,1,Madhouse,1
+304,1,Shaft,1
+304,2,J.C.Staff,0
+305,1,Kinema Citrus,1
+306,1,Doga Kobo,1
+307,1,TMS Entertainment,1
+308,1,Silver Link.,1
+309,1,Kyoto Animation,1
+309,2,TMS Entertainment,0
+310,1,David Production,1
+311,1,Production I.G,1
+312,1,J.C.Staff,1
+313,1,Toei Animation,1
+314,1,David Production,1
+314,2,Trigger,0
+315,1,Kinema Citrus,1
+316,1,Lerche,1
+316,2,Studio Ghibli,0
+317,1,Bones,1
+317,2,MAPPA,0
+318,1,Bones,1
+319,1,Shaft,1
+320,1,Shaft,1
+320,2,Trigger,0
+321,1,J.C.Staff,1
+321,2,Trigger,0
+322,1,Studio Ghibli,1
+322,2,J.C.Staff,0
+323,1,Production I.G,1
+323,2,White Fox,0
+324,1,Madhouse,1
+325,1,Silver Link.,1
+326,1,White Fox,1
+327,1,David Production,1
+327,2,Silver Link.,0
+328,1,Studio Pierrot,1
+329,1,Production I.G,1
+330,1,Silver Link.,1
+331,1,MAPPA,1
+332,1,Doga Kobo,1
+332,2,Bones,0
+333,1,Kinema Citrus,1
+334,1,Doga Kobo,1
+334,2,Studio Ghibli,0
+335,1,Bones,1
+336,1,Production I.G,1
+337,1,David Production,1
+337,2,Studio Pierrot,0
+338,1,Lerche,1
+339,1,Bones,1
+340,1,Trigger,1
+340,2,White Fox,0
+341,1,Silver Link.,1
+342,1,Studio Ghibli,1
+342,2,Sunrise,0
+343,1,wit Studio,1
+343,2,TMS Entertainment,0
+344,1,Lerche,1
+344,2,Shaft,0
+345,1,Ufotable,1
+345,2,P.A. Works,0
+346,1,Kyoto Animation,1
+347,1,Kinema Citrus,1
+347,2,wit Studio,0
+348,1,CloverWorks,1
+349,1,wit Studio,1
+350,1,Bones,1
+351,1,Toei Animation,1
+351,2,Madhouse,0
+352,1,wit Studio,1
+353,1,Trigger,1
+354,1,Bones,1
+355,1,J.C.Staff,1
+355,2,Ufotable,0
+356,1,MAPPA,1
+357,1,CloverWorks,1
+358,1,Lerche,1
+358,2,A-1 Pictures,0
+359,1,Kinema Citrus,1
+360,1,Ufotable,1
+360,2,White Fox,0
+361,1,Toei Animation,1
+362,1,White Fox,1
+363,1,J.C.Staff,1
+364,1,Sunrise,1
+365,1,Shaft,1
+365,2,Production I.G,0
+366,1,Doga Kobo,1
+366,2,Shaft,0
+367,1,Madhouse,1
+367,2,Bones,0
+368,1,Studio Ghibli,1
+368,2,J.C.Staff,0
+369,1,Silver Link.,1
+369,2,P.A. Works,0
+370,1,David Production,1
+370,2,Kinema Citrus,0
+371,1,TMS Entertainment,1
+372,1,Doga Kobo,1
+373,1,Madhouse,1
+374,1,J.C.Staff,1
+374,2,Lerche,0
+375,1,Trigger,1
+375,2,Toei Animation,0
+376,1,Shaft,1
+377,1,P.A. Works,1
+378,1,Sunrise,1
+379,1,Kyoto Animation,1
+380,1,Kinema Citrus,1
+381,1,White Fox,1
+381,2,Trigger,0
+382,1,Ufotable,1
+383,1,Shaft,1
+383,2,David Production,0
+384,1,Madhouse,1
+384,2,Lerche,0
+385,1,Studio Ghibli,1
+385,2,Lerche,0
+386,1,P.A. Works,1
+387,1,Madhouse,1
+387,2,Toei Animation,0
+388,1,Studio Pierrot,1
+388,2,Studio Ghibli,0
+389,1,Shaft,1
+390,1,Trigger,1
+390,2,White Fox,0
+391,1,P.A. Works,1
+392,1,J.C.Staff,1
+392,2,MAPPA,0
+393,1,CloverWorks,1
+393,2,Doga Kobo,0
+394,1,Doga Kobo,1
+395,1,White Fox,1
+395,2,wit Studio,0
+396,1,Lerche,1
+396,2,Production I.G,0
+397,1,Trigger,1
+397,2,Studio Ghibli,0
+398,1,Madhouse,1
+399,1,Doga Kobo,1
+399,2,Madhouse,0
+400,1,David Production,1
+400,2,Silver Link.,0
+401,1,A-1 Pictures,1
+401,2,Sunrise,0
+402,1,wit Studio,1
+403,1,Studio Pierrot,1
+403,2,Madhouse,0
+404,1,Sunrise,1
+404,2,MAPPA,0
+405,1,Lerche,1
+405,2,David Production,0
+406,1,Bones,1
+406,2,David Production,0
+407,1,Studio Pierrot,1
+408,1,Madhouse,1
+408,2,CloverWorks,0
+409,1,Kyoto Animation,1
+409,2,Doga Kobo,0
+410,1,Lerche,1
+411,1,Silver Link.,1
+412,1,MAPPA,1
+412,2,White Fox,0
+413,1,David Production,1
+414,1,CloverWorks,1
+415,1,Sunrise,1
+416,1,TMS Entertainment,1
+417,1,Production I.G,1
+417,2,TMS Entertainment,0
+418,1,Toei Animation,1
+418,2,Sunrise,0
+419,1,Doga Kobo,1
+420,1,Doga Kobo,1
+421,1,White Fox,1
+422,1,Kinema Citrus,1
+422,2,Studio Pierrot,0
+423,1,Toei Animation,1
+424,1,White Fox,1
+425,1,MAPPA,1
+426,1,Bones,1
+427,1,Bones,1
+427,2,Toei Animation,0
+428,1,Studio Ghibli,1
+429,1,A-1 Pictures,1
+429,2,P.A. Works,0
+430,1,Ufotable,1
+430,2,J.C.Staff,0
+431,1,A-1 Pictures,1
+431,2,Madhouse,0
+432,1,Kyoto Animation,1
+433,1,MAPPA,1
+434,1,Kinema Citrus,1
+435,1,Madhouse,1
+435,2,Production I.G,0
+436,1,wit Studio,1
+437,1,Sunrise,1
+438,1,Silver Link.,1
+439,1,wit Studio,1
+440,1,Lerche,1
+441,1,David Production,1
+441,2,TMS Entertainment,0
+442,1,Toei Animation,1
+442,2,Silver Link.,0
+443,1,Silver Link.,1
+443,2,MAPPA,0
+444,1,Sunrise,1
+445,1,wit Studio,1
+446,1,Kinema Citrus,1
+447,1,Ufotable,1
+447,2,Shaft,0
+448,1,Sunrise,1
+449,1,Production I.G,1
+449,2,Kyoto Animation,0
+450,1,Shaft,1
+451,1,Silver Link.,1
+451,2,Ufotable,0
+452,1,David Production,1
+453,1,Studio Pierrot,1
+453,2,wit Studio,0
+454,1,Studio Ghibli,1
+454,2,Doga Kobo,0
+455,1,Lerche,1
+455,2,Studio Pierrot,0
+456,1,wit Studio,1
+457,1,Shaft,1
+457,2,Kinema Citrus,0
+458,1,Toei Animation,1
+459,1,Kinema Citrus,1
+459,2,A-1 Pictures,0
+460,1,P.A. Works,1
+460,2,J.C.Staff,0
+461,1,A-1 Pictures,1
+461,2,Shaft,0
+462,1,CloverWorks,1
+462,2,Studio Pierrot,0
+463,1,Trigger,1
+464,1,Silver Link.,1
+464,2,CloverWorks,0
+465,1,Trigger,1
+466,1,TMS Entertainment,1
+466,2,Kyoto Animation,0
+467,1,Silver Link.,1
+468,1,TMS Entertainment,1
+468,2,wit Studio,0
+469,1,Sunrise,1
+470,1,Lerche,1
+470,2,Trigger,0
+471,1,Bones,1
+472,1,David Production,1
+472,2,Bones,0
+473,1,Shaft,1
+473,2,Lerche,0
+474,1,MAPPA,1
+474,2,White Fox,0
+475,1,Studio Ghibli,1
+476,1,Ufotable,1
+477,1,Studio Pierrot,1
+478,1,MAPPA,1
+478,2,Kyoto Animation,0
+479,1,Madhouse,1
+480,1,Studio Pierrot,1
+480,2,Bones,0
+481,1,MAPPA,1
+482,1,Lerche,1
+482,2,Kyoto Animation,0
+483,1,MAPPA,1
+483,2,CloverWorks,0
+484,1,Production I.G,1
+484,2,A-1 Pictures,0
+485,1,Production I.G,1
+485,2,Trigger,0
+486,1,Madhouse,1
+486,2,Studio Ghibli,0
+487,1,Silver Link.,1
+487,2,Lerche,0
+488,1,CloverWorks,1
+489,1,wit Studio,1
+489,2,David Production,0
+490,1,J.C.Staff,1
+490,2,Bones,0
+491,1,Lerche,1
+491,2,Doga Kobo,0
+492,1,TMS Entertainment,1
+493,1,MAPPA,1
+493,2,Production I.G,0
+494,1,TMS Entertainment,1
+494,2,Studio Pierrot,0
+495,1,wit Studio,1
+495,2,Silver Link.,0
+496,1,Sunrise,1
+497,1,Studio Pierrot,1
+498,1,Production I.G,1
+498,2,Shaft,0
+499,1,Studio Pierrot,1
+500,1,TMS Entertainment,1
+501,1,Studio Ghibli,1
+501,2,Bones,0
+502,1,Doga Kobo,1
+503,1,Sunrise,1
+504,1,Studio Pierrot,1
+505,1,Trigger,1
+506,1,wit Studio,1
+506,2,Production I.G,0
+507,1,White Fox,1
+507,2,Lerche,0
+508,1,Sunrise,1
+509,1,TMS Entertainment,1
+509,2,CloverWorks,0
+510,1,P.A. Works,1
+510,2,Ufotable,0
+511,1,Kinema Citrus,1
+511,2,wit Studio,0
+512,1,Studio Pierrot,1
+512,2,Madhouse,0
+513,1,P.A. Works,1
+514,1,Toei Animation,1
+514,2,Madhouse,0
+515,1,J.C.Staff,1
+515,2,Production I.G,0
+516,1,Studio Pierrot,1
+516,2,Doga Kobo,0
+517,1,Madhouse,1
+517,2,MAPPA,0
+518,1,CloverWorks,1
+518,2,Shaft,0
+519,1,Lerche,1
+520,1,Silver Link.,1
+521,1,Sunrise,1
+521,2,wit Studio,0
+522,1,Production I.G,1
+523,1,A-1 Pictures,1
+523,2,CloverWorks,0
+524,1,Trigger,1
+524,2,TMS Entertainment,0
+525,1,Production I.G,1
+526,1,Sunrise,1
+527,1,Production I.G,1
+528,1,Kyoto Animation,1
+528,2,Studio Ghibli,0
+529,1,Trigger,1
+530,1,Bones,1
+531,1,Sunrise,1
+532,1,David Production,1
+533,1,wit Studio,1
+534,1,wit Studio,1
+534,2,Sunrise,0
+535,1,Sunrise,1
+535,2,Silver Link.,0
+536,1,Toei Animation,1
+537,1,Trigger,1
+538,1,wit Studio,1
+539,1,Ufotable,1
+539,2,TMS Entertainment,0
+540,1,Production I.G,1
+541,1,Toei Animation,1
+542,1,Shaft,1
+543,1,Sunrise,1
+543,2,Toei Animation,0
+544,1,MAPPA,1
+545,1,wit Studio,1
+546,1,Kyoto Animation,1
+547,1,Production I.G,1
+547,2,Kinema Citrus,0
+548,1,Kinema Citrus,1
+548,2,P.A. Works,0
+549,1,Silver Link.,1
+549,2,J.C.Staff,0
+550,1,TMS Entertainment,1
+550,2,Studio Ghibli,0
+551,1,A-1 Pictures,1
+552,1,Kyoto Animation,1
+552,2,P.A. Works,0
+553,1,Bones,1
+554,1,Studio Ghibli,1
+554,2,Trigger,0
+555,1,Production I.G,1
+556,1,Toei Animation,1
+556,2,J.C.Staff,0
+557,1,Ufotable,1
+558,1,Production I.G,1
+559,1,Toei Animation,1
+559,2,CloverWorks,0
+560,1,CloverWorks,1
+560,2,Doga Kobo,0
+561,1,A-1 Pictures,1
+562,1,TMS Entertainment,1
+562,2,Studio Ghibli,0
+563,1,P.A. Works,1
+564,1,J.C.Staff,1
+565,1,Studio Ghibli,1
+566,1,Bones,1
+566,2,Kyoto Animation,0
+567,1,Trigger,1
+567,2,White Fox,0
+568,1,Sunrise,1
+568,2,CloverWorks,0
+569,1,Lerche,1
+569,2,P.A. Works,0
+570,1,Bones,1
+571,1,White Fox,1
+572,1,wit Studio,1
+572,2,Bones,0
+573,1,Kyoto Animation,1
+574,1,TMS Entertainment,1
+575,1,Production I.G,1
+575,2,Shaft,0
+576,1,Toei Animation,1
+576,2,wit Studio,0
+577,1,Madhouse,1
+577,2,Studio Pierrot,0
+578,1,Shaft,1
+579,1,White Fox,1
+580,1,Studio Pierrot,1
+581,1,Kinema Citrus,1
+581,2,TMS Entertainment,0
+582,1,Madhouse,1
+583,1,wit Studio,1
+584,1,CloverWorks,1
+585,1,CloverWorks,1
+585,2,Doga Kobo,0
+586,1,P.A. Works,1
+586,2,Bones,0
+587,1,Ufotable,1
+588,1,J.C.Staff,1
+588,2,Studio Ghibli,0
+589,1,Bones,1
+589,2,David Production,0
+590,1,White Fox,1
+590,2,Trigger,0
+591,1,Silver Link.,1
+591,2,David Production,0
+592,1,Trigger,1
+593,1,P.A. Works,1
+593,2,Silver Link.,0
+594,1,MAPPA,1
+594,2,Lerche,0
+595,1,P.A. Works,1
+596,1,MAPPA,1
+596,2,Production I.G,0
+597,1,J.C.Staff,1
+597,2,Madhouse,0
+598,1,White Fox,1
+599,1,Sunrise,1
+600,1,P.A. Works,1
+601,1,Sunrise,1
+602,1,Kinema Citrus,1
+603,1,Doga Kobo,1
+603,2,Trigger,0
+604,1,Silver Link.,1
+605,1,White Fox,1
+606,1,Trigger,1
+607,1,J.C.Staff,1
+608,1,J.C.Staff,1
+609,1,Madhouse,1
+609,2,David Production,0
+610,1,MAPPA,1
+611,1,Trigger,1
+611,2,Shaft,0
+612,1,David Production,1
+613,1,Kinema Citrus,1
+614,1,Sunrise,1
+615,1,Ufotable,1
+616,1,Sunrise,1
+616,2,Production I.G,0
+617,1,Sunrise,1
+617,2,Ufotable,0
+618,1,Studio Pierrot,1
+618,2,TMS Entertainment,0
+619,1,Madhouse,1
+620,1,Bones,1
+621,1,CloverWorks,1
+622,1,wit Studio,1
+623,1,Sunrise,1
+624,1,Lerche,1
+625,1,Studio Pierrot,1
+626,1,Madhouse,1
+627,1,P.A. Works,1
+627,2,Production I.G,0
+628,1,CloverWorks,1
+628,2,Doga Kobo,0
+629,1,Trigger,1
+629,2,Studio Pierrot,0
+630,1,Kyoto Animation,1
+631,1,Bones,1
+631,2,David Production,0
+632,1,Silver Link.,1
+633,1,David Production,1
+633,2,J.C.Staff,0
+634,1,Studio Pierrot,1
+634,2,David Production,0
+635,1,White Fox,1
+636,1,Production I.G,1
+636,2,Bones,0
+637,1,Sunrise,1
+638,1,MAPPA,1
+639,1,Doga Kobo,1
+639,2,MAPPA,0
+640,1,Toei Animation,1
+640,2,Studio Pierrot,0
+641,1,Production I.G,1
+641,2,White Fox,0
+642,1,Kinema Citrus,1
+642,2,Silver Link.,0
+643,1,Ufotable,1
+643,2,Production I.G,0
+644,1,P.A. Works,1
+645,1,Production I.G,1
+645,2,J.C.Staff,0
+646,1,Doga Kobo,1
+647,1,Production I.G,1
+647,2,David Production,0
+648,1,J.C.Staff,1
+648,2,Madhouse,0
+649,1,Kyoto Animation,1
+650,1,Ufotable,1
+651,1,Sunrise,1
+652,1,P.A. Works,1
+653,1,Production I.G,1
+654,1,Toei Animation,1
+655,1,TMS Entertainment,1
+655,2,Doga Kobo,0
+656,1,David Production,1
+657,1,Lerche,1
+657,2,Toei Animation,0
+658,1,wit Studio,1
+659,1,Madhouse,1
+659,2,Ufotable,0
+660,1,Toei Animation,1
+660,2,MAPPA,0
+661,1,Shaft,1
+661,2,Trigger,0
+662,1,Sunrise,1
+662,2,Production I.G,0
+663,1,David Production,1
+664,1,Sunrise,1
+664,2,MAPPA,0
+665,1,J.C.Staff,1
+665,2,Trigger,0
+666,1,Doga Kobo,1
+667,1,Ufotable,1
+668,1,Madhouse,1
+668,2,Sunrise,0
+669,1,CloverWorks,1
+670,1,Toei Animation,1
+671,1,MAPPA,1
+672,1,Doga Kobo,1
+672,2,Studio Pierrot,0
+673,1,Kyoto Animation,1
+674,1,Shaft,1
+674,2,Doga Kobo,0
+675,1,wit Studio,1
+676,1,TMS Entertainment,1
+676,2,Kinema Citrus,0
+677,1,Studio Ghibli,1
+677,2,TMS Entertainment,0
+678,1,Silver Link.,1
+678,2,TMS Entertainment,0
+679,1,Ufotable,1
+679,2,Production I.G,0
+680,1,Doga Kobo,1
+680,2,Kyoto Animation,0
+681,1,Shaft,1
+681,2,Madhouse,0
+682,1,White Fox,1
+683,1,TMS Entertainment,1
+684,1,Ufotable,1
+685,1,P.A. Works,1
+686,1,Studio Pierrot,1
+686,2,Production I.G,0
+687,1,P.A. Works,1
+687,2,Toei Animation,0
+688,1,Studio Ghibli,1
+689,1,Studio Ghibli,1
+689,2,Doga Kobo,0
+690,1,Studio Ghibli,1
+691,1,A-1 Pictures,1
+691,2,Ufotable,0
+692,1,White Fox,1
+693,1,Shaft,1
+693,2,Kyoto Animation,0
+694,1,J.C.Staff,1
+695,1,Doga Kobo,1
+696,1,Studio Pierrot,1
+697,1,Kinema Citrus,1
+697,2,Lerche,0
+698,1,Ufotable,1
+698,2,Kyoto Animation,0
+699,1,Doga Kobo,1
+699,2,Studio Pierrot,0
+700,1,MAPPA,1
+701,1,Lerche,1
+701,2,Sunrise,0
+702,1,MAPPA,1
+703,1,Lerche,1
+704,1,Production I.G,1
+705,1,Bones,1
+705,2,Silver Link.,0
+706,1,wit Studio,1
+707,1,Production I.G,1
+707,2,Bones,0
+708,1,Bones,1
+709,1,Production I.G,1
+709,2,White Fox,0
+710,1,Ufotable,1
+710,2,Lerche,0
+711,1,Madhouse,1
+711,2,White Fox,0
+712,1,Kinema Citrus,1
+712,2,Toei Animation,0
+713,1,Production I.G,1
+713,2,P.A. Works,0
+714,1,wit Studio,1
+714,2,Bones,0
+715,1,Doga Kobo,1
+715,2,White Fox,0
+716,1,Bones,1
+716,2,Kyoto Animation,0
+717,1,wit Studio,1
+718,1,White Fox,1
+718,2,CloverWorks,0
+719,1,CloverWorks,1
+719,2,P.A. Works,0
+720,1,Silver Link.,1
+721,1,Bones,1
+722,1,Studio Pierrot,1
+723,1,TMS Entertainment,1
+724,1,Toei Animation,1
+725,1,Doga Kobo,1
+725,2,White Fox,0
+726,1,Bones,1
+726,2,Studio Ghibli,0
+727,1,Kyoto Animation,1
+728,1,Shaft,1
+729,1,Lerche,1
+730,1,David Production,1
+730,2,Doga Kobo,0
+731,1,Sunrise,1
+732,1,Studio Pierrot,1
+733,1,A-1 Pictures,1
+734,1,Bones,1
+735,1,Ufotable,1
+736,1,Production I.G,1
+736,2,Sunrise,0
+737,1,Studio Pierrot,1
+738,1,Silver Link.,1
+739,1,Bones,1
+739,2,wit Studio,0
+740,1,Ufotable,1
+741,1,TMS Entertainment,1
+741,2,Kinema Citrus,0
+742,1,TMS Entertainment,1
+743,1,Silver Link.,1
+743,2,Doga Kobo,0
+744,1,Production I.G,1
+745,1,Madhouse,1
+745,2,Silver Link.,0
+746,1,TMS Entertainment,1
+747,1,Doga Kobo,1
+747,2,Studio Pierrot,0
+748,1,Ufotable,1
+749,1,David Production,1
+749,2,Lerche,0
+750,1,P.A. Works,1
+751,1,Lerche,1
+752,1,Shaft,1
+753,1,Bones,1
+753,2,MAPPA,0
+754,1,Lerche,1
+755,1,Kinema Citrus,1
+755,2,Kyoto Animation,0
+756,1,wit Studio,1
+757,1,CloverWorks,1
+758,1,P.A. Works,1
+758,2,Bones,0
+759,1,White Fox,1
+760,1,Sunrise,1
+760,2,David Production,0
+761,1,A-1 Pictures,1
+762,1,David Production,1
+762,2,CloverWorks,0
+763,1,Studio Pierrot,1
+764,1,A-1 Pictures,1
+764,2,TMS Entertainment,0
+765,1,P.A. Works,1
+765,2,Shaft,0
+766,1,Studio Ghibli,1
+767,1,David Production,1
+767,2,Lerche,0
+768,1,David Production,1
+768,2,Production I.G,0
+769,1,wit Studio,1
+769,2,Studio Pierrot,0
+770,1,Silver Link.,1
+770,2,David Production,0
+771,1,Production I.G,1
+772,1,Production I.G,1
+773,1,MAPPA,1
+773,2,Kinema Citrus,0
+774,1,Trigger,1
+775,1,Kyoto Animation,1
+776,1,Madhouse,1
+776,2,White Fox,0
+777,1,Madhouse,1
+778,1,wit Studio,1
+779,1,Kinema Citrus,1
+780,1,Trigger,1
+780,2,Ufotable,0
+781,1,Sunrise,1
+782,1,TMS Entertainment,1
+782,2,Bones,0
+783,1,Silver Link.,1
+784,1,A-1 Pictures,1
+785,1,Sunrise,1
+785,2,J.C.Staff,0
+786,1,Silver Link.,1
+786,2,P.A. Works,0
+787,1,Silver Link.,1
+787,2,Sunrise,0
+788,1,Studio Ghibli,1
+788,2,CloverWorks,0
+789,1,Sunrise,1
+789,2,Shaft,0
+790,1,wit Studio,1
+791,1,Ufotable,1
+791,2,wit Studio,0
+792,1,wit Studio,1
+793,1,Ufotable,1
+794,1,MAPPA,1
+795,1,Production I.G,1
+796,1,Studio Ghibli,1
+796,2,Ufotable,0
+797,1,Doga Kobo,1
+798,1,A-1 Pictures,1
+798,2,Ufotable,0
+799,1,TMS Entertainment,1
+799,2,CloverWorks,0
+800,1,Ufotable,1
+801,1,A-1 Pictures,1
+802,1,David Production,1
+802,2,P.A. Works,0
+803,1,Kyoto Animation,1
+803,2,Trigger,0
+804,1,MAPPA,1
+804,2,wit Studio,0
+805,1,Studio Pierrot,1
+806,1,wit Studio,1
+806,2,Ufotable,0
+807,1,CloverWorks,1
+808,1,Production I.G,1
+809,1,Trigger,1
+809,2,Kinema Citrus,0
+810,1,Silver Link.,1
+811,1,Lerche,1
+812,1,CloverWorks,1
+812,2,David Production,0
+813,1,Bones,1
+814,1,Studio Ghibli,1
+814,2,P.A. Works,0
+815,1,Shaft,1
+815,2,P.A. Works,0
+816,1,Silver Link.,1
+817,1,Kinema Citrus,1
+818,1,White Fox,1
+819,1,Madhouse,1
+820,1,Trigger,1
+820,2,A-1 Pictures,0
+821,1,wit Studio,1
+822,1,David Production,1
+823,1,wit Studio,1
+824,1,Studio Pierrot,1
+824,2,Studio Ghibli,0
+825,1,Doga Kobo,1
+825,2,Kyoto Animation,0
+826,1,Bones,1
+826,2,A-1 Pictures,0
+827,1,TMS Entertainment,1
+828,1,CloverWorks,1
+828,2,wit Studio,0
+829,1,Bones,1
+829,2,A-1 Pictures,0
+830,1,David Production,1
+830,2,TMS Entertainment,0
+831,1,P.A. Works,1
+832,1,A-1 Pictures,1
+832,2,Doga Kobo,0
+833,1,Trigger,1
+833,2,Shaft,0
+834,1,Lerche,1
+835,1,Sunrise,1
+835,2,Bones,0
+836,1,Kyoto Animation,1
+837,1,Kyoto Animation,1
+838,1,Silver Link.,1
+838,2,Studio Pierrot,0
+839,1,Shaft,1
+839,2,A-1 Pictures,0
+840,1,Bones,1
+840,2,P.A. Works,0
+841,1,Madhouse,1
+841,2,Doga Kobo,0
+842,1,Sunrise,1
+843,1,J.C.Staff,1
+844,1,MAPPA,1
+845,1,Bones,1
+846,1,Production I.G,1
+846,2,wit Studio,0
+847,1,Ufotable,1
+847,2,Kyoto Animation,0
+848,1,Trigger,1
+848,2,Studio Ghibli,0
+849,1,Production I.G,1
+849,2,Ufotable,0
+850,1,David Production,1
+851,1,White Fox,1
+852,1,David Production,1
+853,1,White Fox,1
+854,1,Kyoto Animation,1
+855,1,Production I.G,1
+855,2,Toei Animation,0
+856,1,David Production,1
+857,1,Lerche,1
+857,2,A-1 Pictures,0
+858,1,Trigger,1
+858,2,Doga Kobo,0
+859,1,CloverWorks,1
+859,2,P.A. Works,0
+860,1,White Fox,1
+861,1,P.A. Works,1
+861,2,White Fox,0
+862,1,wit Studio,1
+863,1,J.C.Staff,1
+863,2,wit Studio,0
+864,1,Toei Animation,1
+865,1,Bones,1
+865,2,Studio Ghibli,0
+866,1,MAPPA,1
+867,1,TMS Entertainment,1
+867,2,Ufotable,0
+868,1,David Production,1
+869,1,Trigger,1
+869,2,White Fox,0
+870,1,Kyoto Animation,1
+870,2,Lerche,0
+871,1,Silver Link.,1
+871,2,Studio Pierrot,0
+872,1,David Production,1
+872,2,Studio Pierrot,0
+873,1,Shaft,1
+873,2,Toei Animation,0
+874,1,Trigger,1
+875,1,J.C.Staff,1
+875,2,Trigger,0
+876,1,Doga Kobo,1
+877,1,Studio Ghibli,1
+877,2,Lerche,0
+878,1,Ufotable,1
+879,1,MAPPA,1
+880,1,Lerche,1
+880,2,P.A. Works,0
+881,1,Lerche,1
+882,1,Toei Animation,1
+882,2,P.A. Works,0
+883,1,Madhouse,1
+883,2,Production I.G,0
+884,1,CloverWorks,1
+884,2,A-1 Pictures,0
+885,1,Toei Animation,1
+885,2,J.C.Staff,0
+886,1,Toei Animation,1
+887,1,Bones,1
+888,1,wit Studio,1
+889,1,Lerche,1
+889,2,David Production,0
+890,1,TMS Entertainment,1
+891,1,White Fox,1
+892,1,Doga Kobo,1
+892,2,A-1 Pictures,0
+893,1,TMS Entertainment,1
+894,1,Studio Ghibli,1
+894,2,David Production,0
+895,1,Studio Ghibli,1
+895,2,Trigger,0
+896,1,Lerche,1
+897,1,wit Studio,1
+897,2,Studio Ghibli,0
+898,1,wit Studio,1
+899,1,Production I.G,1
+900,1,Studio Ghibli,1
+901,1,wit Studio,1
+901,2,Toei Animation,0
+902,1,Doga Kobo,1
+902,2,Shaft,0
+903,1,P.A. Works,1
+904,1,David Production,1
+905,1,David Production,1
+905,2,A-1 Pictures,0
+906,1,Studio Pierrot,1
+907,1,White Fox,1
+907,2,wit Studio,0
+908,1,P.A. Works,1
+909,1,Kinema Citrus,1
+910,1,Bones,1
+910,2,J.C.Staff,0
+911,1,Madhouse,1
+912,1,P.A. Works,1
+912,2,Lerche,0
+913,1,Silver Link.,1
+914,1,TMS Entertainment,1
+914,2,Sunrise,0
+915,1,Shaft,1
+915,2,Production I.G,0
+916,1,TMS Entertainment,1
+916,2,J.C.Staff,0
+917,1,wit Studio,1
+918,1,Bones,1
+918,2,Kyoto Animation,0
+919,1,Bones,1
+920,1,Toei Animation,1
+920,2,Studio Ghibli,0
+921,1,Shaft,1
+921,2,wit Studio,0
+922,1,MAPPA,1
+923,1,A-1 Pictures,1
+923,2,Kyoto Animation,0
+924,1,Trigger,1
+924,2,Sunrise,0
+925,1,Production I.G,1
+926,1,Trigger,1
+926,2,Madhouse,0
+927,1,Madhouse,1
+928,1,Kinema Citrus,1
+929,1,Kinema Citrus,1
+929,2,J.C.Staff,0
+930,1,wit Studio,1
+930,2,Kyoto Animation,0
+931,1,David Production,1
+932,1,Silver Link.,1
+933,1,Shaft,1
+934,1,CloverWorks,1
+934,2,David Production,0
+935,1,MAPPA,1
+936,1,Studio Ghibli,1
+937,1,TMS Entertainment,1
+937,2,Studio Ghibli,0
+938,1,Bones,1
+939,1,Lerche,1
+939,2,Ufotable,0
+940,1,Lerche,1
+940,2,Trigger,0
+941,1,Doga Kobo,1
+942,1,A-1 Pictures,1
+943,1,Bones,1
+944,1,Kyoto Animation,1
+944,2,Trigger,0
+945,1,Sunrise,1
+945,2,P.A. Works,0
+946,1,A-1 Pictures,1
+947,1,Trigger,1
+947,2,Toei Animation,0
+948,1,Kyoto Animation,1
+948,2,Doga Kobo,0
+949,1,J.C.Staff,1
+949,2,Studio Ghibli,0
+950,1,CloverWorks,1
+951,1,Ufotable,1
+951,2,P.A. Works,0
+952,1,Toei Animation,1
+952,2,A-1 Pictures,0
+953,1,Toei Animation,1
+953,2,Lerche,0
+954,1,Kinema Citrus,1
+955,1,Trigger,1
+955,2,White Fox,0
+956,1,White Fox,1
+956,2,Ufotable,0
+957,1,Shaft,1
+958,1,P.A. Works,1
+959,1,Shaft,1
+960,1,Ufotable,1
+961,1,Kyoto Animation,1
+961,2,Studio Ghibli,0
+962,1,Silver Link.,1
+962,2,Studio Ghibli,0
+963,1,A-1 Pictures,1
+964,1,Madhouse,1
+965,1,MAPPA,1
+965,2,TMS Entertainment,0
+966,1,Kyoto Animation,1
+966,2,Trigger,0
+967,1,Studio Pierrot,1
+967,2,Sunrise,0
+968,1,Doga Kobo,1
+968,2,CloverWorks,0
+969,1,Doga Kobo,1
+970,1,Sunrise,1
+970,2,Lerche,0
+971,1,A-1 Pictures,1
+972,1,P.A. Works,1
+973,1,J.C.Staff,1
+973,2,Kinema Citrus,0
+974,1,Doga Kobo,1
+975,1,J.C.Staff,1
+975,2,A-1 Pictures,0
+976,1,Silver Link.,1
+976,2,A-1 Pictures,0
+977,1,Kinema Citrus,1
+977,2,Studio Ghibli,0
+978,1,Doga Kobo,1
+979,1,Studio Ghibli,1
+980,1,Studio Ghibli,1
+981,1,Madhouse,1
+981,2,Shaft,0
+982,1,White Fox,1
+983,1,Lerche,1
+984,1,Toei Animation,1
+985,1,Kyoto Animation,1
+985,2,Sunrise,0
+986,1,wit Studio,1
+986,2,Doga Kobo,0
+987,1,Shaft,1
+987,2,A-1 Pictures,0
+988,1,Bones,1
+989,1,Doga Kobo,1
+990,1,Shaft,1
+991,1,Studio Pierrot,1
+992,1,Lerche,1
+992,2,P.A. Works,0
+993,1,Studio Pierrot,1
+993,2,A-1 Pictures,0
+994,1,P.A. Works,1
+995,1,Lerche,1
+995,2,wit Studio,0
+996,1,Production I.G,1
+997,1,Kyoto Animation,1
+997,2,Ufotable,0
+998,1,Lerche,1
+998,2,wit Studio,0
+999,1,A-1 Pictures,1
+999,2,Kyoto Animation,0
+1000,1,Kinema Citrus,1
+1000,2,Kyoto Animation,0
+1001,1,Sunrise,1
+1001,2,TMS Entertainment,0
+1002,1,Lerche,1
+1003,1,Trigger,1
+1003,2,TMS Entertainment,0
+1004,1,J.C.Staff,1
+1004,2,Trigger,0
+1005,1,TMS Entertainment,1
+1006,1,Bones,1
+1007,1,Ufotable,1
+1008,1,Kinema Citrus,1
+1009,1,Silver Link.,1
+1009,2,David Production,0
+1010,1,Sunrise,1
+1011,1,Studio Pierrot,1
+1011,2,Doga Kobo,0
+1012,1,wit Studio,1
+1012,2,TMS Entertainment,0
+1013,1,Kinema Citrus,1
+1014,1,Trigger,1
+1014,2,Toei Animation,0
+1015,1,Toei Animation,1
+1016,1,Toei Animation,1
+1017,1,Silver Link.,1
+1017,2,David Production,0
+1018,1,Silver Link.,1
+1018,2,MAPPA,0
+1019,1,Lerche,1
+1020,1,White Fox,1
+1021,1,Lerche,1
+1021,2,Kyoto Animation,0
+1022,1,TMS Entertainment,1
+1023,1,Shaft,1
+1024,1,Production I.G,1
+1024,2,Sunrise,0
+1025,1,David Production,1
+1025,2,CloverWorks,0
+1026,1,wit Studio,1
+1027,1,Lerche,1
+1027,2,Doga Kobo,0
+1028,1,Shaft,1
+1028,2,Bones,0
+1029,1,P.A. Works,1
+1029,2,Production I.G,0
+1030,1,Kyoto Animation,1
+1030,2,Toei Animation,0
+1031,1,Studio Pierrot,1
+1031,2,Toei Animation,0
+1032,1,Lerche,1
+1033,1,Bones,1
+1033,2,Doga Kobo,0
+1034,1,J.C.Staff,1
+1035,1,A-1 Pictures,1
+1036,1,A-1 Pictures,1
+1036,2,wit Studio,0
+1037,1,Trigger,1
+1038,1,Bones,1
+1039,1,P.A. Works,1
+1040,1,Sunrise,1
+1040,2,Madhouse,0
+1041,1,Madhouse,1
+1041,2,White Fox,0
+1042,1,Doga Kobo,1
+1043,1,Sunrise,1
+1043,2,Madhouse,0
+1044,1,Production I.G,1
+1044,2,A-1 Pictures,0
+1045,1,Bones,1
+1046,1,CloverWorks,1
+1047,1,Kinema Citrus,1
+1048,1,Bones,1
+1049,1,Ufotable,1
+1049,2,MAPPA,0
+1050,1,Lerche,1
+1051,1,Lerche,1
+1052,1,Silver Link.,1
+1052,2,wit Studio,0
+1053,1,Bones,1
+1054,1,wit Studio,1
+1054,2,CloverWorks,0
+1055,1,Bones,1
+1056,1,Production I.G,1
+1056,2,Madhouse,0
+1057,1,TMS Entertainment,1
+1058,1,Production I.G,1
+1058,2,Kinema Citrus,0
+1059,1,TMS Entertainment,1
+1060,1,Lerche,1
+1061,1,TMS Entertainment,1
+1061,2,Trigger,0
+1062,1,Shaft,1
+1063,1,Kinema Citrus,1
+1064,1,Doga Kobo,1
+1064,2,P.A. Works,0
+1065,1,MAPPA,1
+1066,1,Silver Link.,1
+1066,2,Trigger,0
+1067,1,Trigger,1
+1067,2,David Production,0
+1068,1,TMS Entertainment,1
+1068,2,Lerche,0
+1069,1,Silver Link.,1
+1069,2,CloverWorks,0
+1070,1,Silver Link.,1
+1070,2,wit Studio,0
+1071,1,Shaft,1
+1072,1,Doga Kobo,1
+1073,1,J.C.Staff,1
+1073,2,White Fox,0
+1074,1,Studio Ghibli,1
+1074,2,Doga Kobo,0
+1075,1,David Production,1
+1075,2,White Fox,0
+1076,1,Toei Animation,1
+1077,1,Lerche,1
+1078,1,CloverWorks,1
+1078,2,Studio Pierrot,0
+1079,1,TMS Entertainment,1
+1080,1,Lerche,1
+1080,2,Kinema Citrus,0
+1081,1,Bones,1
+1081,2,TMS Entertainment,0
+1082,1,CloverWorks,1
+1082,2,Lerche,0
+1083,1,Toei Animation,1
+1084,1,Lerche,1
+1085,1,Trigger,1
+1085,2,Sunrise,0
+1086,1,David Production,1
+1086,2,Doga Kobo,0
+1087,1,Sunrise,1
+1088,1,Kinema Citrus,1
+1088,2,Shaft,0
+1089,1,Ufotable,1
+1090,1,J.C.Staff,1
+1091,1,J.C.Staff,1
+1091,2,White Fox,0
+1092,1,J.C.Staff,1
+1092,2,Trigger,0
+1093,1,Studio Pierrot,1
+1093,2,Bones,0
+1094,1,Lerche,1
+1094,2,MAPPA,0
+1095,1,Silver Link.,1
+1095,2,Bones,0
+1096,1,Kyoto Animation,1
+1097,1,MAPPA,1
+1098,1,A-1 Pictures,1
+1099,1,Studio Ghibli,1
+1099,2,Trigger,0
+1100,1,wit Studio,1
+1100,2,P.A. Works,0
+1101,1,MAPPA,1
+1102,1,wit Studio,1
+1103,1,Shaft,1
+1104,1,Ufotable,1
+1105,1,White Fox,1
+1106,1,Ufotable,1
+1106,2,Sunrise,0
+1107,1,Shaft,1
+1107,2,Production I.G,0
+1108,1,Trigger,1
+1109,1,J.C.Staff,1
+1110,1,J.C.Staff,1
+1111,1,MAPPA,1
+1111,2,Bones,0
+1112,1,J.C.Staff,1
+1113,1,Production I.G,1
+1114,1,Lerche,1
+1114,2,Kinema Citrus,0
+1115,1,Studio Pierrot,1
+1115,2,Studio Ghibli,0
+1116,1,Kyoto Animation,1
+1116,2,Shaft,0
+1117,1,Madhouse,1
+1117,2,White Fox,0
+1118,1,Studio Pierrot,1
+1119,1,Madhouse,1
+1120,1,J.C.Staff,1
+1120,2,Studio Pierrot,0
+1121,1,P.A. Works,1
+1122,1,Studio Ghibli,1
+1123,1,Sunrise,1
+1124,1,Studio Ghibli,1
+1125,1,Bones,1
+1126,1,Ufotable,1
+1127,1,Studio Pierrot,1
+1128,1,TMS Entertainment,1
+1129,1,Studio Ghibli,1
+1129,2,Studio Pierrot,0
+1130,1,Studio Pierrot,1
+1131,1,Trigger,1
+1132,1,Silver Link.,1
+1132,2,Toei Animation,0
+1133,1,Studio Pierrot,1
+1134,1,Silver Link.,1
+1134,2,Sunrise,0
+1135,1,White Fox,1
+1136,1,Shaft,1
+1137,1,J.C.Staff,1
+1137,2,TMS Entertainment,0
+1138,1,White Fox,1
+1139,1,Sunrise,1
+1139,2,David Production,0
+1140,1,Ufotable,1
+1140,2,Kinema Citrus,0
+1141,1,wit Studio,1
+1141,2,Shaft,0
+1142,1,Doga Kobo,1
+1143,1,Toei Animation,1
+1143,2,Silver Link.,0
+1144,1,wit Studio,1
+1145,1,Sunrise,1
+1145,2,A-1 Pictures,0
+1146,1,White Fox,1
+1147,1,Kinema Citrus,1
+1148,1,Kyoto Animation,1
+1149,1,J.C.Staff,1
+1150,1,P.A. Works,1
+1151,1,CloverWorks,1
+1152,1,White Fox,1
+1152,2,CloverWorks,0
+1153,1,Lerche,1
+1153,2,Madhouse,0
+1154,1,TMS Entertainment,1
+1155,1,Shaft,1
+1155,2,Sunrise,0
+1156,1,CloverWorks,1
+1156,2,Lerche,0
+1157,1,Shaft,1
+1157,2,Studio Ghibli,0
+1158,1,A-1 Pictures,1
+1158,2,CloverWorks,0
+1159,1,J.C.Staff,1
+1159,2,Studio Pierrot,0
+1160,1,CloverWorks,1
+1161,1,Silver Link.,1
+1161,2,Kinema Citrus,0
+1162,1,Studio Ghibli,1
+1162,2,Production I.G,0
+1163,1,wit Studio,1
+1163,2,Bones,0
+1164,1,Production I.G,1
+1164,2,Studio Pierrot,0
+1165,1,David Production,1
+1165,2,Production I.G,0
+1166,1,Bones,1
+1167,1,Toei Animation,1
+1168,1,wit Studio,1
+1169,1,A-1 Pictures,1
+1169,2,TMS Entertainment,0
+1170,1,Bones,1
+1170,2,White Fox,0
+1171,1,Shaft,1
+1171,2,Silver Link.,0
+1172,1,P.A. Works,1
+1172,2,A-1 Pictures,0
+1173,1,Sunrise,1
+1173,2,CloverWorks,0
+1174,1,Sunrise,1
+1175,1,MAPPA,1
+1176,1,Shaft,1
+1177,1,Studio Ghibli,1
+1178,1,TMS Entertainment,1
+1179,1,Trigger,1
+1179,2,wit Studio,0
+1180,1,MAPPA,1
+1181,1,Doga Kobo,1
+1181,2,Toei Animation,0
+1182,1,Production I.G,1
+1183,1,Ufotable,1
+1183,2,wit Studio,0
+1184,1,Studio Pierrot,1
+1185,1,Madhouse,1
+1185,2,P.A. Works,0
+1186,1,Kinema Citrus,1
+1186,2,Production I.G,0
+1187,1,TMS Entertainment,1
+1187,2,A-1 Pictures,0
+1188,1,Kinema Citrus,1
+1188,2,White Fox,0
+1189,1,Ufotable,1
+1190,1,David Production,1
+1191,1,A-1 Pictures,1
+1191,2,P.A. Works,0
+1192,1,Ufotable,1
+1192,2,Production I.G,0
+1193,1,Madhouse,1
+1194,1,Studio Ghibli,1
+1194,2,A-1 Pictures,0
+1195,1,MAPPA,1
+1195,2,Trigger,0
+1196,1,Madhouse,1
+1196,2,Studio Ghibli,0
+1197,1,Doga Kobo,1
+1198,1,Studio Ghibli,1
+1199,1,P.A. Works,1
+1199,2,Doga Kobo,0
+1200,1,Silver Link.,1
+1200,2,Ufotable,0
+1201,1,Studio Ghibli,1
+1202,1,Lerche,1
+1203,1,TMS Entertainment,1
+1204,1,Ufotable,1
+1204,2,Bones,0
+1205,1,Trigger,1
+1205,2,Madhouse,0
+1206,1,Lerche,1
+1207,1,Sunrise,1
+1207,2,Toei Animation,0
+1208,1,Lerche,1
+1209,1,Sunrise,1
+1210,1,MAPPA,1
+1211,1,Bones,1
+1212,1,Sunrise,1
+1213,1,Kinema Citrus,1
+1214,1,Silver Link.,1
+1214,2,David Production,0
+1215,1,Doga Kobo,1
+1215,2,Production I.G,0
+1216,1,Doga Kobo,1
+1217,1,Toei Animation,1
+1218,1,Madhouse,1
+1219,1,Kinema Citrus,1
+1220,1,Studio Ghibli,1
+1220,2,Ufotable,0
+1221,1,CloverWorks,1
+1221,2,Doga Kobo,0
+1222,1,Kyoto Animation,1
+1223,1,Toei Animation,1
+1224,1,CloverWorks,1
+1224,2,Kyoto Animation,0
+1225,1,Production I.G,1
+1225,2,TMS Entertainment,0
+1226,1,Trigger,1
+1227,1,Bones,1
+1227,2,Production I.G,0
+1228,1,Toei Animation,1
+1229,1,David Production,1
+1229,2,White Fox,0
+1230,1,Production I.G,1
+1230,2,Toei Animation,0
+1231,1,Silver Link.,1
+1231,2,CloverWorks,0
+1232,1,A-1 Pictures,1
+1233,1,Studio Ghibli,1
+1234,1,Production I.G,1
+1235,1,A-1 Pictures,1
+1235,2,Lerche,0
+1236,1,Studio Ghibli,1
+1236,2,Production I.G,0
+1237,1,Sunrise,1
+1238,1,wit Studio,1
+1239,1,Madhouse,1
+1240,1,Bones,1
+1240,2,Ufotable,0
+1241,1,Ufotable,1
+1242,1,Trigger,1
+1243,1,Production I.G,1
+1244,1,CloverWorks,1
+1244,2,Shaft,0
+1245,1,P.A. Works,1
+1246,1,Bones,1
+1246,2,White Fox,0
+1247,1,Bones,1
+1247,2,Trigger,0
+1248,1,Lerche,1
+1248,2,CloverWorks,0
+1249,1,White Fox,1
+1250,1,Silver Link.,1
+1251,1,TMS Entertainment,1
+1252,1,P.A. Works,1
+1253,1,Shaft,1
+1253,2,Bones,0
+1254,1,White Fox,1
+1255,1,Madhouse,1
+1256,1,P.A. Works,1
+1257,1,Kyoto Animation,1
+1257,2,CloverWorks,0
+1258,1,Silver Link.,1
+1259,1,Silver Link.,1
+1259,2,Studio Ghibli,0
+1260,1,Doga Kobo,1
+1260,2,MAPPA,0
+1261,1,David Production,1
+1261,2,Bones,0
+1262,1,Bones,1
+1262,2,Silver Link.,0
+1263,1,David Production,1
+1263,2,Kyoto Animation,0
+1264,1,Studio Pierrot,1
+1265,1,Madhouse,1
+1266,1,Production I.G,1
+1267,1,Sunrise,1
+1267,2,Trigger,0
+1268,1,Bones,1
+1268,2,Toei Animation,0
+1269,1,MAPPA,1
+1269,2,J.C.Staff,0
+1270,1,P.A. Works,1
+1270,2,Production I.G,0
+1271,1,wit Studio,1
+1272,1,David Production,1
+1272,2,J.C.Staff,0
+1273,1,Sunrise,1
+1274,1,TMS Entertainment,1
+1274,2,Production I.G,0
+1275,1,Bones,1
+1276,1,Toei Animation,1
+1277,1,White Fox,1
+1277,2,P.A. Works,0
+1278,1,Production I.G,1
+1278,2,Lerche,0
+1279,1,Bones,1
+1280,1,Kinema Citrus,1
+1280,2,Madhouse,0
+1281,1,P.A. Works,1
+1281,2,Ufotable,0
+1282,1,J.C.Staff,1
+1282,2,Sunrise,0
+1283,1,Kyoto Animation,1
+1284,1,Sunrise,1
+1285,1,TMS Entertainment,1
+1285,2,Bones,0
+1286,1,Production I.G,1
+1287,1,Lerche,1
+1287,2,P.A. Works,0
+1288,1,Toei Animation,1
+1288,2,wit Studio,0
+1289,1,P.A. Works,1
+1290,1,Trigger,1
+1290,2,TMS Entertainment,0
+1291,1,Madhouse,1
+1292,1,David Production,1
+1292,2,MAPPA,0
+1293,1,Sunrise,1
+1294,1,Toei Animation,1
+1295,1,TMS Entertainment,1
+1296,1,Trigger,1
+1297,1,Lerche,1
+1298,1,Kinema Citrus,1
+1299,1,Studio Pierrot,1
+1299,2,Sunrise,0
+1300,1,Studio Ghibli,1
+1301,1,Sunrise,1
+1302,1,Ufotable,1
+1303,1,J.C.Staff,1
+1303,2,Doga Kobo,0
+1304,1,White Fox,1
+1304,2,Sunrise,0
+1305,1,Trigger,1
+1306,1,Studio Pierrot,1
+1306,2,TMS Entertainment,0
+1307,1,A-1 Pictures,1
+1308,1,J.C.Staff,1
+1309,1,Sunrise,1
+1310,1,Trigger,1
+1311,1,White Fox,1
+1311,2,Kyoto Animation,0
+1312,1,David Production,1
+1312,2,Sunrise,0
+1313,1,MAPPA,1
+1313,2,A-1 Pictures,0
+1314,1,Production I.G,1
+1314,2,Studio Pierrot,0
+1315,1,Studio Ghibli,1
+1315,2,Sunrise,0
+1316,1,Trigger,1
+1317,1,Toei Animation,1
+1318,1,P.A. Works,1
+1318,2,Lerche,0
+1319,1,Madhouse,1
+1320,1,White Fox,1
+1320,2,Kyoto Animation,0
+1321,1,Madhouse,1
+1322,1,P.A. Works,1
+1323,1,Kyoto Animation,1
+1323,2,Sunrise,0
+1324,1,wit Studio,1
+1325,1,David Production,1
+1326,1,CloverWorks,1
+1326,2,White Fox,0
+1327,1,Lerche,1
+1328,1,A-1 Pictures,1
+1328,2,David Production,0
+1329,1,Silver Link.,1
+1330,1,Toei Animation,1
+1330,2,Studio Ghibli,0
+1331,1,David Production,1
+1332,1,Silver Link.,1
+1332,2,Sunrise,0
+1333,1,Toei Animation,1
+1333,2,White Fox,0
+1334,1,Silver Link.,1
+1335,1,P.A. Works,1
+1336,1,Kyoto Animation,1
+1336,2,CloverWorks,0
+1337,1,Doga Kobo,1
+1338,1,CloverWorks,1
+1338,2,Bones,0
+1339,1,Trigger,1
+1340,1,Toei Animation,1
+1340,2,Madhouse,0
+1341,1,Production I.G,1
+1342,1,Studio Ghibli,1
+1342,2,Studio Pierrot,0
+1343,1,J.C.Staff,1
+1344,1,A-1 Pictures,1
+1344,2,Kyoto Animation,0
+1345,1,Kinema Citrus,1
+1346,1,A-1 Pictures,1
+1347,1,A-1 Pictures,1
+1348,1,Madhouse,1
+1349,1,Production I.G,1
+1350,1,Shaft,1
+1351,1,Studio Pierrot,1
+1351,2,P.A. Works,0
+1352,1,Doga Kobo,1
+1353,1,Sunrise,1
+1353,2,Madhouse,0
+1354,1,White Fox,1
+1355,1,wit Studio,1
+1355,2,P.A. Works,0
+1356,1,Production I.G,1
+1357,1,Toei Animation,1
+1357,2,Production I.G,0
+1358,1,Production I.G,1
+1359,1,wit Studio,1
+1360,1,Production I.G,1
+1360,2,Kyoto Animation,0
+1361,1,Silver Link.,1
+1362,1,Kyoto Animation,1
+1363,1,wit Studio,1
+1363,2,A-1 Pictures,0
+1364,1,Sunrise,1
+1364,2,Kyoto Animation,0
+1365,1,Sunrise,1
+1366,1,Bones,1
+1367,1,Shaft,1
+1367,2,A-1 Pictures,0
+1368,1,Studio Ghibli,1
+1369,1,Lerche,1
+1369,2,Sunrise,0
+1370,1,CloverWorks,1
+1370,2,TMS Entertainment,0
+1371,1,Doga Kobo,1
+1371,2,MAPPA,0
+1372,1,Ufotable,1
+1373,1,Studio Pierrot,1
+1373,2,Trigger,0
+1374,1,Bones,1
+1375,1,Silver Link.,1
+1376,1,MAPPA,1
+1376,2,CloverWorks,0
+1377,1,David Production,1
+1377,2,White Fox,0
+1378,1,David Production,1
+1379,1,TMS Entertainment,1
+1379,2,Trigger,0
+1380,1,Kinema Citrus,1
+1381,1,White Fox,1
+1381,2,TMS Entertainment,0
+1382,1,Studio Pierrot,1
+1383,1,Kinema Citrus,1
+1383,2,J.C.Staff,0
+1384,1,Madhouse,1
+1385,1,Sunrise,1
+1385,2,Bones,0
+1386,1,Trigger,1
+1386,2,Silver Link.,0
+1387,1,David Production,1
+1387,2,Studio Pierrot,0
+1388,1,White Fox,1
+1388,2,Studio Ghibli,0
+1389,1,Trigger,1
+1390,1,Doga Kobo,1
+1391,1,TMS Entertainment,1
+1391,2,Trigger,0
+1392,1,White Fox,1
+1393,1,CloverWorks,1
+1393,2,Lerche,0
+1394,1,Toei Animation,1
+1395,1,J.C.Staff,1
+1395,2,MAPPA,0
+1396,1,David Production,1
+1397,1,P.A. Works,1
+1397,2,MAPPA,0
+1398,1,Shaft,1
+1398,2,TMS Entertainment,0
+1399,1,Studio Ghibli,1
+1400,1,Lerche,1
+1401,1,Studio Pierrot,1
+1401,2,Sunrise,0
+1402,1,Shaft,1
+1403,1,CloverWorks,1
+1403,2,Lerche,0
+1404,1,Lerche,1
+1404,2,Kyoto Animation,0
+1405,1,David Production,1
+1405,2,Kinema Citrus,0
+1406,1,Ufotable,1
+1406,2,Bones,0
+1407,1,Kyoto Animation,1
+1407,2,Lerche,0
+1408,1,Silver Link.,1
+1409,1,J.C.Staff,1
+1410,1,J.C.Staff,1
+1410,2,Doga Kobo,0
+1411,1,J.C.Staff,1
+1412,1,Trigger,1
+1412,2,Sunrise,0
+1413,1,Studio Ghibli,1
+1413,2,J.C.Staff,0
+1414,1,Silver Link.,1
+1415,1,Shaft,1
+1416,1,P.A. Works,1
+1416,2,TMS Entertainment,0
+1417,1,Kinema Citrus,1
+1418,1,Lerche,1
+1419,1,J.C.Staff,1
+1420,1,White Fox,1
+1420,2,wit Studio,0
+1421,1,J.C.Staff,1
+1422,1,A-1 Pictures,1
+1422,2,Toei Animation,0
+1423,1,Kyoto Animation,1
+1423,2,Toei Animation,0
+1424,1,Studio Ghibli,1
+1425,1,wit Studio,1
+1425,2,Production I.G,0
+1426,1,Lerche,1
+1427,1,Sunrise,1
+1427,2,wit Studio,0
+1428,1,Shaft,1
+1428,2,Silver Link.,0
+1429,1,Silver Link.,1
+1430,1,Silver Link.,1
+1431,1,White Fox,1
+1431,2,Kinema Citrus,0
+1432,1,CloverWorks,1
+1432,2,Shaft,0
+1433,1,Sunrise,1
+1433,2,Studio Pierrot,0
+1434,1,Toei Animation,1
+1435,1,Madhouse,1
+1435,2,Production I.G,0
+1436,1,White Fox,1
+1436,2,Madhouse,0
+1437,1,Toei Animation,1
+1437,2,Silver Link.,0
+1438,1,A-1 Pictures,1
+1438,2,CloverWorks,0
+1439,1,Bones,1
+1439,2,Studio Ghibli,0
+1440,1,TMS Entertainment,1
+1441,1,David Production,1
+1442,1,A-1 Pictures,1
+1443,1,Doga Kobo,1
+1443,2,Silver Link.,0
+1444,1,J.C.Staff,1
+1444,2,Bones,0
+1445,1,David Production,1
+1445,2,Bones,0
+1446,1,Sunrise,1
+1447,1,Silver Link.,1
+1448,1,Studio Ghibli,1
+1449,1,Production I.G,1
+1449,2,Lerche,0
+1450,1,Shaft,1
+1450,2,P.A. Works,0
+1451,1,Madhouse,1
+1451,2,wit Studio,0
+1452,1,Sunrise,1
+1453,1,Kinema Citrus,1
+1453,2,White Fox,0
+1454,1,P.A. Works,1
+1455,1,Madhouse,1
+1455,2,A-1 Pictures,0
+1456,1,CloverWorks,1
+1457,1,TMS Entertainment,1
+1458,1,J.C.Staff,1
+1458,2,Sunrise,0
+1459,1,Studio Ghibli,1
+1459,2,Sunrise,0
+1460,1,Lerche,1
+1460,2,Bones,0
+1461,1,White Fox,1
+1461,2,Kinema Citrus,0
+1462,1,Madhouse,1
+1462,2,Studio Pierrot,0
+1463,1,Doga Kobo,1
+1464,1,Silver Link.,1
+1464,2,J.C.Staff,0
+1465,1,CloverWorks,1
+1465,2,Production I.G,0
+1466,1,Lerche,1
+1467,1,Sunrise,1
+1468,1,Sunrise,1
+1469,1,P.A. Works,1
+1470,1,Bones,1
+1471,1,Kyoto Animation,1
+1472,1,Silver Link.,1
+1472,2,MAPPA,0
+1473,1,CloverWorks,1
+1473,2,Toei Animation,0
+1474,1,CloverWorks,1
+1474,2,Trigger,0
+1475,1,Doga Kobo,1
+1475,2,Bones,0
+1476,1,MAPPA,1
+1477,1,wit Studio,1
+1477,2,Production I.G,0
+1478,1,wit Studio,1
+1479,1,Production I.G,1
+1479,2,Silver Link.,0
+1480,1,Silver Link.,1
+1480,2,wit Studio,0
+1481,1,Shaft,1
+1482,1,Silver Link.,1
+1483,1,MAPPA,1
+1484,1,Toei Animation,1
+1484,2,Sunrise,0
+1485,1,Toei Animation,1
+1485,2,A-1 Pictures,0
+1486,1,wit Studio,1
+1487,1,Silver Link.,1
+1488,1,Lerche,1
+1489,1,wit Studio,1
+1489,2,J.C.Staff,0
+1490,1,Doga Kobo,1
+1491,1,Doga Kobo,1
+1492,1,Trigger,1
+1492,2,A-1 Pictures,0
+1493,1,Production I.G,1
+1494,1,Trigger,1
+1495,1,CloverWorks,1
+1495,2,TMS Entertainment,0
+1496,1,Toei Animation,1
+1496,2,David Production,0
+1497,1,Madhouse,1
+1498,1,Sunrise,1
+1499,1,Studio Ghibli,1
+1500,1,Madhouse,1
+1500,2,Production I.G,0
+1501,1,Bones,1
+1501,2,Kinema Citrus,0
+1502,1,wit Studio,1
+1502,2,CloverWorks,0
+1503,1,Studio Pierrot,1
+1503,2,TMS Entertainment,0
+1504,1,Ufotable,1
+1505,1,Ufotable,1
+1506,1,David Production,1
+1506,2,Ufotable,0
+1507,1,Silver Link.,1
+1507,2,Kyoto Animation,0
+1508,1,Madhouse,1
+1508,2,J.C.Staff,0
+1509,1,TMS Entertainment,1
+1509,2,Shaft,0
+1510,1,MAPPA,1
+1510,2,A-1 Pictures,0
+1511,1,Doga Kobo,1
+1512,1,A-1 Pictures,1
+1513,1,Doga Kobo,1
+1514,1,wit Studio,1
+1514,2,TMS Entertainment,0
+1515,1,TMS Entertainment,1
+1516,1,Sunrise,1
+1516,2,Studio Ghibli,0
+1517,1,White Fox,1
+1518,1,Production I.G,1
+1518,2,Ufotable,0
+1519,1,Silver Link.,1
+1519,2,Studio Ghibli,0
+1520,1,Madhouse,1
+1520,2,Silver Link.,0
+1521,1,CloverWorks,1
+1521,2,Studio Pierrot,0
+1522,1,Lerche,1
+1523,1,Kinema Citrus,1
+1524,1,Toei Animation,1
+1524,2,CloverWorks,0
+1525,1,Kinema Citrus,1
+1525,2,TMS Entertainment,0
+1526,1,Madhouse,1
+1527,1,A-1 Pictures,1
+1527,2,wit Studio,0
+1528,1,Kinema Citrus,1
+1528,2,Studio Ghibli,0
+1529,1,MAPPA,1
+1529,2,A-1 Pictures,0
+1530,1,Shaft,1
+1530,2,Madhouse,0
+1531,1,David Production,1
+1531,2,Madhouse,0
+1532,1,Doga Kobo,1
+1532,2,Shaft,0
+1533,1,Madhouse,1
+1533,2,Studio Ghibli,0
+1534,1,wit Studio,1
+1536,1,Toei Animation,1
+1537,1,Silver Link.,1
+1538,1,Kyoto Animation,1
+1539,1,J.C.Staff,1
+1539,2,Bones,0
+1540,1,Studio Ghibli,1
+1541,1,MAPPA,1
+1542,1,Bones,1
+1543,1,Madhouse,1
+1543,2,Lerche,0
+1544,1,Trigger,1
+1545,1,Ufotable,1
+1545,2,Kinema Citrus,0
+1546,1,Sunrise,1
+1547,1,David Production,1
+1547,2,Toei Animation,0
+1548,1,CloverWorks,1
+1548,2,P.A. Works,0
+1549,1,Lerche,1
+1549,2,MAPPA,0
+1550,1,Sunrise,1
+1550,2,Shaft,0
+1551,1,Studio Ghibli,1
+1551,2,Lerche,0
+1552,1,Studio Pierrot,1
+1553,1,Studio Pierrot,1
+1553,2,wit Studio,0
+1554,1,Ufotable,1
+1554,2,TMS Entertainment,0
+1555,1,Kyoto Animation,1
+1555,2,Production I.G,0
+1556,1,Studio Pierrot,1
+1557,1,White Fox,1
+1557,2,J.C.Staff,0
+1558,1,MAPPA,1
+1558,2,CloverWorks,0
+1559,1,TMS Entertainment,1
+1560,1,A-1 Pictures,1
+1560,2,Lerche,0
+1561,1,Silver Link.,1
+1562,1,TMS Entertainment,1
+1563,1,A-1 Pictures,1
+1564,1,Shaft,1
+1564,2,Ufotable,0
+1565,1,Kyoto Animation,1
+1566,1,Bones,1
+1566,2,Shaft,0
+1567,1,CloverWorks,1
+1567,2,A-1 Pictures,0
+1568,1,Trigger,1
+1568,2,CloverWorks,0
+1569,1,A-1 Pictures,1
+1569,2,CloverWorks,0
+1570,1,Production I.G,1
+1571,1,Madhouse,1
+1572,1,Bones,1
+1572,2,TMS Entertainment,0
+1573,1,White Fox,1
+1573,2,Kinema Citrus,0
+1574,1,Sunrise,1
+1575,1,Production I.G,1
+1575,2,J.C.Staff,0
+1576,1,Studio Pierrot,1
+1577,1,J.C.Staff,1
+1578,1,Bones,1
+1579,1,MAPPA,1
+1580,1,David Production,1
+1581,1,Ufotable,1
+1582,1,White Fox,1
+1583,1,J.C.Staff,1
+1583,2,MAPPA,0
+1584,1,Kyoto Animation,1
+1584,2,P.A. Works,0
+1585,1,wit Studio,1
+1586,1,Silver Link.,1
+1586,2,White Fox,0
+1587,1,P.A. Works,1
+1588,1,Trigger,1
+1588,2,P.A. Works,0
+1589,1,Studio Ghibli,1
+1589,2,CloverWorks,0
+1590,1,Sunrise,1
+1590,2,Kyoto Animation,0
+1591,1,TMS Entertainment,1
+1592,1,P.A. Works,1
+1592,2,Bones,0
+1593,1,Lerche,1
+1593,2,Kyoto Animation,0
+1594,1,Trigger,1
+1594,2,Toei Animation,0
+1595,1,Trigger,1
+1595,2,Madhouse,0
+1596,1,Kyoto Animation,1
+1596,2,Toei Animation,0
+1597,1,Studio Pierrot,1
+1597,2,P.A. Works,0
+1598,1,MAPPA,1
+1599,1,Shaft,1
+1599,2,CloverWorks,0
+1600,1,Studio Pierrot,1
+1601,1,Trigger,1
+1601,2,A-1 Pictures,0
+1602,1,Silver Link.,1
+1602,2,Trigger,0
+1603,1,Silver Link.,1
+1604,1,Studio Ghibli,1
+1605,1,White Fox,1
+1605,2,A-1 Pictures,0
+1606,1,TMS Entertainment,1
+1606,2,Trigger,0
+1607,1,Studio Pierrot,1
+1608,1,Kinema Citrus,1
+1609,1,Studio Pierrot,1
+1609,2,P.A. Works,0
+1610,1,Shaft,1
+1610,2,Trigger,0
+1611,1,P.A. Works,1
+1611,2,wit Studio,0
+1612,1,Trigger,1
+1613,1,Lerche,1
+1614,1,Silver Link.,1
+1614,2,MAPPA,0
+1615,1,Sunrise,1
+1615,2,CloverWorks,0
+1616,1,Bones,1
+1617,1,MAPPA,1
+1617,2,A-1 Pictures,0
+1618,1,Madhouse,1
+1619,1,wit Studio,1
+1619,2,Studio Ghibli,0
+1620,1,Bones,1
+1621,1,Production I.G,1
+1622,1,Studio Pierrot,1
+1623,1,Madhouse,1
+1623,2,Kyoto Animation,0
+1624,1,White Fox,1
+1625,1,J.C.Staff,1
+1626,1,David Production,1
+1627,1,MAPPA,1
+1628,1,Ufotable,1
+1629,1,David Production,1
+1630,1,Production I.G,1
+1631,1,Toei Animation,1
+1631,2,MAPPA,0
+1632,1,A-1 Pictures,1
+1633,1,TMS Entertainment,1
+1633,2,wit Studio,0
+1634,1,MAPPA,1
+1634,2,J.C.Staff,0
+1635,1,Shaft,1
+1636,1,P.A. Works,1
+1636,2,Ufotable,0
+1637,1,Studio Pierrot,1
+1637,2,Production I.G,0
+1638,1,Production I.G,1
+1638,2,Toei Animation,0
+1639,1,MAPPA,1
+1640,1,Toei Animation,1
+1641,1,Shaft,1
+1641,2,CloverWorks,0
+1642,1,Production I.G,1
+1643,1,Lerche,1
+1643,2,Silver Link.,0
+1644,1,TMS Entertainment,1
+1644,2,Doga Kobo,0
+1645,1,Toei Animation,1
+1645,2,Silver Link.,0
+1646,1,MAPPA,1
+1647,1,Kyoto Animation,1
+1647,2,Kinema Citrus,0
+1648,1,Kinema Citrus,1
+1648,2,wit Studio,0
+1649,1,CloverWorks,1
+1650,1,Studio Ghibli,1
+1650,2,Ufotable,0
+1651,1,Ufotable,1
+1651,2,White Fox,0
+1652,1,CloverWorks,1
+1652,2,Lerche,0
+1653,1,Sunrise,1
+1654,1,White Fox,1
+1655,1,Kyoto Animation,1
+1655,2,Sunrise,0
+1656,1,Studio Pierrot,1
+1657,1,Sunrise,1
+1658,1,P.A. Works,1
+1658,2,Lerche,0
+1659,1,CloverWorks,1
+1659,2,Studio Ghibli,0
+1660,1,Kyoto Animation,1
+1660,2,Studio Ghibli,0
+1661,1,Shaft,1
+1661,2,Lerche,0
+1662,1,Sunrise,1
+1662,2,Kinema Citrus,0
+1663,1,Ufotable,1
+1664,1,Production I.G,1
+1665,1,Silver Link.,1
+1665,2,J.C.Staff,0
+1666,1,Sunrise,1
+1666,2,wit Studio,0
+1667,1,Bones,1
+1668,1,Kinema Citrus,1
+1668,2,Studio Pierrot,0
+1669,1,Doga Kobo,1
+1670,1,Lerche,1
+1671,1,Madhouse,1
+1672,1,David Production,1
+1673,1,Kinema Citrus,1
+1674,1,White Fox,1
+1674,2,J.C.Staff,0
+1675,1,Toei Animation,1
+1675,2,CloverWorks,0
+1676,1,wit Studio,1
+1676,2,Doga Kobo,0
+1677,1,David Production,1
+1677,2,Trigger,0
+1678,1,CloverWorks,1
+1678,2,Ufotable,0
+1679,1,Madhouse,1
+1679,2,Sunrise,0
+1680,1,David Production,1
+1681,1,J.C.Staff,1
+1682,1,J.C.Staff,1
+1682,2,CloverWorks,0
+1683,1,MAPPA,1
+1683,2,CloverWorks,0
+1684,1,wit Studio,1
+1684,2,David Production,0
+1685,1,Trigger,1
+1685,2,David Production,0
+1686,1,Shaft,1
+1686,2,Ufotable,0
+1687,1,Doga Kobo,1
+1687,2,P.A. Works,0
+1688,1,Studio Ghibli,1
+1689,1,A-1 Pictures,1
+1689,2,White Fox,0
+1690,1,MAPPA,1
+1691,1,Bones,1
+1692,1,Studio Ghibli,1
+1693,1,Ufotable,1
+1693,2,MAPPA,0
+1694,1,P.A. Works,1
+1695,1,Studio Pierrot,1
+1695,2,Production I.G,0
+1696,1,CloverWorks,1
+1696,2,J.C.Staff,0
+1697,1,Madhouse,1
+1697,2,MAPPA,0
+1698,1,MAPPA,1
+1699,1,Trigger,1
+1700,1,MAPPA,1
+1700,2,Silver Link.,0
+1701,1,Madhouse,1
+1702,1,Toei Animation,1
+1702,2,Studio Ghibli,0
+1703,1,CloverWorks,1
+1704,1,Ufotable,1
+1704,2,Doga Kobo,0
+1705,1,David Production,1
+1705,2,Kinema Citrus,0
+1706,1,A-1 Pictures,1
+1707,1,Bones,1
+1708,1,J.C.Staff,1
+1708,2,Production I.G,0
+1709,1,Bones,1
+1709,2,TMS Entertainment,0
+1710,1,Production I.G,1
+1710,2,Toei Animation,0
+1711,1,Studio Pierrot,1
+1711,2,J.C.Staff,0
+1712,1,Doga Kobo,1
+1713,1,P.A. Works,1
+1714,1,Shaft,1
+1714,2,Kyoto Animation,0
+1715,1,MAPPA,1
+1715,2,CloverWorks,0
+1716,1,Ufotable,1
+1717,1,CloverWorks,1
+1717,2,wit Studio,0
+1718,1,CloverWorks,1
+1719,1,A-1 Pictures,1
+1720,1,Sunrise,1
+1721,1,Doga Kobo,1
+1721,2,Madhouse,0
+1722,1,Sunrise,1
+1723,1,Ufotable,1
+1723,2,Studio Ghibli,0
+1724,1,CloverWorks,1
+1725,1,Studio Pierrot,1
+1726,1,MAPPA,1
+1727,1,Lerche,1
+1728,1,Toei Animation,1
+1728,2,Doga Kobo,0
+1729,1,Bones,1
+1729,2,Silver Link.,0
+1730,1,Doga Kobo,1
+1730,2,CloverWorks,0
+1731,1,P.A. Works,1
+1732,1,Sunrise,1
+1732,2,Shaft,0
+1733,1,Studio Pierrot,1
+1733,2,P.A. Works,0
+1734,1,White Fox,1
+1735,1,Sunrise,1
+1735,2,P.A. Works,0
+1736,1,Kyoto Animation,1
+1736,2,Doga Kobo,0
+1737,1,Kinema Citrus,1
+1738,1,Bones,1
+1739,1,Silver Link.,1
+1740,1,Kinema Citrus,1
+1741,1,David Production,1
+1742,1,Sunrise,1
+1742,2,Studio Ghibli,0
+1743,1,Silver Link.,1
+1744,1,Sunrise,1
+1745,1,Studio Ghibli,1
+1745,2,Sunrise,0
+1746,1,Studio Pierrot,1
+1746,2,wit Studio,0
+1747,1,CloverWorks,1
+1748,1,White Fox,1
+1749,1,Toei Animation,1
+1749,2,Shaft,0
+1750,1,MAPPA,1
+1750,2,Kinema Citrus,0
+1751,1,Bones,1
+1751,2,Sunrise,0
+1752,1,Studio Ghibli,1
+1752,2,Ufotable,0
+1753,1,Kyoto Animation,1
+1753,2,White Fox,0
+1754,1,Studio Ghibli,1
+1755,1,Studio Ghibli,1
+1755,2,Trigger,0
+1756,1,Studio Ghibli,1
+1757,1,Sunrise,1
+1758,1,Madhouse,1
+1759,1,Kinema Citrus,1
+1760,1,Sunrise,1
+1760,2,Silver Link.,0
+1761,1,wit Studio,1
+1761,2,Toei Animation,0
+1762,1,Kinema Citrus,1
+1762,2,Shaft,0
+1763,1,Doga Kobo,1
+1763,2,Silver Link.,0
+1764,1,A-1 Pictures,1
+1764,2,Shaft,0
+1765,1,CloverWorks,1
+1765,2,Madhouse,0
+1766,1,Kyoto Animation,1
+1767,1,TMS Entertainment,1
+1767,2,MAPPA,0
+1768,1,Kyoto Animation,1
+1768,2,A-1 Pictures,0
+1769,1,wit Studio,1
+1769,2,Doga Kobo,0
+1770,1,Trigger,1
+1771,1,CloverWorks,1
+1771,2,Kyoto Animation,0
+1772,1,Production I.G,1
+1772,2,Shaft,0
+1773,1,Kyoto Animation,1
+1773,2,Madhouse,0
+1774,1,Ufotable,1
+1774,2,Doga Kobo,0
+1775,1,Doga Kobo,1
+1776,1,White Fox,1
+1776,2,CloverWorks,0
+1777,1,Lerche,1
+1778,1,David Production,1
+1779,1,J.C.Staff,1
+1780,1,MAPPA,1
+1781,1,J.C.Staff,1
+1782,1,TMS Entertainment,1
+1782,2,CloverWorks,0
+1783,1,P.A. Works,1
+1783,2,Doga Kobo,0
+1784,1,Lerche,1
+1784,2,Studio Ghibli,0
+1785,1,MAPPA,1
+1785,2,Toei Animation,0
+1786,1,Shaft,1
+1786,2,Kyoto Animation,0
+1787,1,Silver Link.,1
+1788,1,TMS Entertainment,1
+1789,1,Shaft,1
+1790,1,Doga Kobo,1
+1790,2,White Fox,0
+1791,1,Studio Ghibli,1
+1791,2,wit Studio,0
+1792,1,White Fox,1
+1792,2,TMS Entertainment,0
+1793,1,Madhouse,1
+1794,1,Trigger,1
+1794,2,David Production,0
+1795,1,A-1 Pictures,1
+1796,1,A-1 Pictures,1
+1796,2,TMS Entertainment,0
+1797,1,Madhouse,1
+1798,1,Kinema Citrus,1
+1799,1,J.C.Staff,1
+1800,1,Doga Kobo,1
+1801,1,Doga Kobo,1
+1801,2,J.C.Staff,0
+1802,1,Silver Link.,1
+1802,2,Madhouse,0
+1803,1,TMS Entertainment,1
+1803,2,Silver Link.,0
+1804,1,Studio Ghibli,1
+1804,2,Studio Pierrot,0
+1805,1,P.A. Works,1
+1805,2,Trigger,0
+1806,1,White Fox,1
+1806,2,Ufotable,0
+1807,1,Shaft,1
+1807,2,David Production,0
+1808,1,Kyoto Animation,1
+1809,1,David Production,1
+1809,2,P.A. Works,0
+1810,1,Studio Pierrot,1
+1811,1,Studio Ghibli,1
+1812,1,Studio Pierrot,1
+1813,1,P.A. Works,1
+1813,2,Kinema Citrus,0
+1814,1,A-1 Pictures,1
+1815,1,Shaft,1
+1815,2,P.A. Works,0
+1816,1,Trigger,1
+1816,2,Production I.G,0
+1817,1,TMS Entertainment,1
+1817,2,Silver Link.,0
+1818,1,White Fox,1
+1818,2,Trigger,0
+1819,1,Lerche,1
+1819,2,wit Studio,0
+1820,1,P.A. Works,1
+1821,1,A-1 Pictures,1
+1822,1,Kinema Citrus,1
+1823,1,Studio Ghibli,1
+1824,1,Trigger,1
+1824,2,Madhouse,0
+1825,1,Studio Ghibli,1
+1825,2,MAPPA,0
+1826,1,Production I.G,1
+1826,2,wit Studio,0
+1827,1,Sunrise,1
+1827,2,Studio Ghibli,0
+1828,1,TMS Entertainment,1
+1829,1,Kinema Citrus,1
+1830,1,Studio Pierrot,1
+1830,2,Sunrise,0
+1831,1,Silver Link.,1
+1831,2,Sunrise,0
+1832,1,Toei Animation,1
+1832,2,Production I.G,0
+1833,1,Studio Pierrot,1
+1833,2,Trigger,0
+1834,1,White Fox,1
+1835,1,Sunrise,1
+1836,1,Shaft,1
+1837,1,Silver Link.,1
+1837,2,Shaft,0
+1838,1,MAPPA,1
+1839,1,CloverWorks,1
+1839,2,David Production,0
+1840,1,Silver Link.,1
+1841,1,Bones,1
+1841,2,Ufotable,0
+1842,1,Madhouse,1
+1843,1,CloverWorks,1
+1844,1,Madhouse,1
+1845,1,A-1 Pictures,1
+1846,1,Trigger,1
+1846,2,TMS Entertainment,0
+1847,1,Shaft,1
+1848,1,Kyoto Animation,1
+1848,2,P.A. Works,0
+1849,1,Kyoto Animation,1
+1850,1,Sunrise,1
+1851,1,Lerche,1
+1852,1,David Production,1
+1853,1,CloverWorks,1
+1854,1,Kinema Citrus,1
+1854,2,P.A. Works,0
+1855,1,Ufotable,1
+1856,1,Shaft,1
+1857,1,Doga Kobo,1
+1858,1,CloverWorks,1
+1859,1,P.A. Works,1
+1859,2,Studio Ghibli,0
+1860,1,P.A. Works,1
+1860,2,MAPPA,0
+1861,1,Madhouse,1
+1861,2,White Fox,0
+1862,1,CloverWorks,1
+1863,1,P.A. Works,1
+1864,1,A-1 Pictures,1
+1865,1,Studio Ghibli,1
+1865,2,MAPPA,0
+1866,1,J.C.Staff,1
+1867,1,P.A. Works,1
+1868,1,P.A. Works,1
+1869,1,Doga Kobo,1
+1870,1,Bones,1
+1871,1,TMS Entertainment,1
+1872,1,Ufotable,1
+1873,1,Madhouse,1
+1873,2,Silver Link.,0
+1874,1,Production I.G,1
+1875,1,David Production,1
+1876,1,Bones,1
+1876,2,J.C.Staff,0
+1877,1,wit Studio,1
+1878,1,Studio Ghibli,1
+1878,2,Toei Animation,0
+1879,1,TMS Entertainment,1
+1879,2,David Production,0
+1880,1,Trigger,1
+1881,1,Lerche,1
+1882,1,David Production,1
+1883,1,David Production,1
+1884,1,TMS Entertainment,1
+1885,1,Shaft,1
+1885,2,Studio Pierrot,0
+1886,1,David Production,1
+1887,1,Studio Pierrot,1
+1888,1,Production I.G,1
+1889,1,Lerche,1
+1890,1,MAPPA,1
+1891,1,Sunrise,1
+1892,1,J.C.Staff,1
+1892,2,Production I.G,0
+1893,1,MAPPA,1
+1894,1,Kinema Citrus,1
+1895,1,Kinema Citrus,1
+1895,2,Trigger,0
+1896,1,MAPPA,1
+1896,2,Production I.G,0
+1897,1,Bones,1
+1897,2,Studio Ghibli,0
+1898,1,Lerche,1
+1899,1,Lerche,1
+1899,2,Doga Kobo,0
+1900,1,Kinema Citrus,1
+1901,1,MAPPA,1
+1902,1,Studio Pierrot,1
+1903,1,Sunrise,1
+1903,2,Bones,0
+1904,1,White Fox,1
+1905,1,Ufotable,1
+1906,1,Bones,1
+1906,2,CloverWorks,0
+1907,1,Kinema Citrus,1
+1907,2,A-1 Pictures,0
+1908,1,Silver Link.,1
+1908,2,MAPPA,0
+1909,1,J.C.Staff,1
+1910,1,Bones,1
+1911,1,CloverWorks,1
+1912,1,A-1 Pictures,1
+1913,1,P.A. Works,1
+1913,2,Toei Animation,0
+1914,1,Shaft,1
+1915,1,Ufotable,1
+1916,1,Doga Kobo,1
+1917,1,wit Studio,1
+1918,1,Trigger,1
+1919,1,Lerche,1
+1919,2,CloverWorks,0
+1920,1,White Fox,1
+1920,2,Bones,0
+1921,1,Toei Animation,1
+1922,1,Doga Kobo,1
+1922,2,Bones,0
+1923,1,P.A. Works,1
+1924,1,Doga Kobo,1
+1924,2,Silver Link.,0
+1925,1,P.A. Works,1
+1925,2,David Production,0
+1926,1,wit Studio,1
+1926,2,P.A. Works,0
+1927,1,Sunrise,1
+1928,1,Kinema Citrus,1
+1928,2,MAPPA,0
+1929,1,Shaft,1
+1929,2,Silver Link.,0
+1930,1,Production I.G,1
+1930,2,Ufotable,0
+1931,1,Trigger,1
+1932,1,Studio Pierrot,1
+1933,1,Production I.G,1
+1933,2,J.C.Staff,0
+1934,1,Kyoto Animation,1
+1934,2,White Fox,0
+1935,1,Doga Kobo,1
+1936,1,David Production,1
+1937,1,TMS Entertainment,1
+1938,1,Sunrise,1
+1938,2,Bones,0
+1939,1,Lerche,1
+1940,1,Silver Link.,1
+1941,1,Studio Pierrot,1
+1942,1,White Fox,1
+1942,2,MAPPA,0
+1943,1,Studio Pierrot,1
+1944,1,Studio Ghibli,1
+1945,1,Toei Animation,1
+1945,2,MAPPA,0
+1946,1,Studio Ghibli,1
+1946,2,Shaft,0
+1947,1,wit Studio,1
+1947,2,Lerche,0
+1948,1,Kyoto Animation,1
+1949,1,Sunrise,1
+1950,1,Madhouse,1
+1950,2,Bones,0
+1951,1,CloverWorks,1
+1951,2,P.A. Works,0
+1952,1,MAPPA,1
+1952,2,A-1 Pictures,0
+1953,1,Ufotable,1
+1953,2,Silver Link.,0
+1954,1,Kinema Citrus,1
+1954,2,Bones,0
+1955,1,Madhouse,1
+1956,1,Production I.G,1
+1957,1,Bones,1
+1958,1,Kyoto Animation,1
+1959,1,Ufotable,1
+1959,2,P.A. Works,0
+1960,1,Shaft,1
+1960,2,CloverWorks,0
+1961,1,Studio Pierrot,1
+1961,2,Production I.G,0
+1962,1,Ufotable,1
+1962,2,wit Studio,0
+1963,1,Kyoto Animation,1
+1963,2,Bones,0
+1964,1,Silver Link.,1
+1964,2,Sunrise,0
+1965,1,Sunrise,1
+1965,2,David Production,0
+1966,1,CloverWorks,1
+1967,1,Sunrise,1
+1968,1,Madhouse,1
+1968,2,wit Studio,0
+1969,1,Toei Animation,1
+1970,1,P.A. Works,1
+1970,2,Sunrise,0
+1971,1,Sunrise,1
+1971,2,Studio Ghibli,0
+1972,1,CloverWorks,1
+1973,1,Toei Animation,1
+1973,2,White Fox,0
+1974,1,Production I.G,1
+1975,1,Toei Animation,1
+1976,1,Madhouse,1
+1977,1,Doga Kobo,1
+1977,2,CloverWorks,0
+1978,1,Sunrise,1
+1978,2,David Production,0
+1979,1,Lerche,1
+1980,1,David Production,1
+1980,2,MAPPA,0
+1981,1,Studio Pierrot,1
+1981,2,Ufotable,0
+1982,1,CloverWorks,1
+1982,2,Trigger,0
+1983,1,Kinema Citrus,1
+1983,2,Toei Animation,0
+1984,1,Kyoto Animation,1
+1984,2,J.C.Staff,0
+1985,1,P.A. Works,1
+1985,2,Toei Animation,0
+1986,1,Lerche,1
+1987,1,Sunrise,1
+1988,1,Studio Ghibli,1
+1988,2,MAPPA,0
+1989,1,Toei Animation,1
+1989,2,Studio Ghibli,0
+1990,1,Kinema Citrus,1
+1990,2,A-1 Pictures,0
+1991,1,Doga Kobo,1
+1991,2,TMS Entertainment,0
+1992,1,TMS Entertainment,1
+1993,1,Sunrise,1
+1993,2,Lerche,0
+1994,1,Studio Ghibli,1
+1995,1,Production I.G,1
+1996,1,Ufotable,1
+1996,2,Doga Kobo,0
+1997,1,wit Studio,1
+1998,1,Studio Ghibli,1
+1998,2,Madhouse,0
+1999,1,Sunrise,1
+2000,1,David Production,1
+2000,2,CloverWorks,0
+2001,1,Lerche,1
+2002,1,A-1 Pictures,1
+2003,1,J.C.Staff,1
+2004,1,Silver Link.,1
+2005,1,White Fox,1
+2005,2,Studio Ghibli,0
+2006,1,Doga Kobo,1
+2007,1,wit Studio,1
+2007,2,Silver Link.,0
+2008,1,P.A. Works,1
+2009,1,Trigger,1
+2009,2,Doga Kobo,0
+2010,1,Sunrise,1
+2010,2,Production I.G,0
+2011,1,Ufotable,1
+2011,2,Shaft,0
+2012,1,Toei Animation,1
+2012,2,Trigger,0
+2013,1,Studio Pierrot,1
+2013,2,Toei Animation,0
+2014,1,Shaft,1
+2015,1,David Production,1
+2016,1,Trigger,1
+2017,1,Toei Animation,1
+2017,2,Production I.G,0
+2018,1,Shaft,1
+2018,2,Toei Animation,0
+2019,1,Production I.G,1
+2019,2,Studio Pierrot,0
+2020,1,Trigger,1
+2021,1,Lerche,1
+2022,1,Shaft,1
+2022,2,Madhouse,0
+2023,1,Studio Pierrot,1
+2024,1,Ufotable,1
+2024,2,Madhouse,0
+2025,1,Kyoto Animation,1
+2026,1,Studio Ghibli,1
+2026,2,Sunrise,0
+2027,1,Madhouse,1
+2027,2,Sunrise,0
+2028,1,MAPPA,1
+2029,1,Silver Link.,1
+2030,1,Silver Link.,1
+2031,1,Production I.G,1
+2032,1,P.A. Works,1
+2032,2,A-1 Pictures,0
+2033,1,Shaft,1
+2033,2,CloverWorks,0
+2034,1,P.A. Works,1
+2034,2,Kyoto Animation,0
+2035,1,David Production,1
+2035,2,Sunrise,0
+2036,1,A-1 Pictures,1
+2037,1,Doga Kobo,1
+2038,1,David Production,1
+2038,2,Kyoto Animation,0
+2039,1,TMS Entertainment,1
+2040,1,Studio Ghibli,1
+2040,2,Madhouse,0
+2041,1,A-1 Pictures,1
+2041,2,MAPPA,0
+2042,1,Studio Pierrot,1
+2043,1,TMS Entertainment,1
+2044,1,Lerche,1
+2045,1,J.C.Staff,1
+2045,2,White Fox,0
+2046,1,Silver Link.,1
+2046,2,Trigger,0
+2047,1,David Production,1
+2048,1,A-1 Pictures,1
+2048,2,CloverWorks,0
+2049,1,David Production,1
+2050,1,Trigger,1
+2050,2,Studio Pierrot,0
+2051,1,Doga Kobo,1
+2052,1,CloverWorks,1
+2052,2,Lerche,0
+2053,1,Kinema Citrus,1
+2054,1,Shaft,1
+2054,2,David Production,0
+2055,1,wit Studio,1
+2055,2,CloverWorks,0
+2056,1,Madhouse,1
+2057,1,David Production,1
+2058,1,Bones,1
+2058,2,wit Studio,0
+2059,1,Shaft,1
+2060,1,Production I.G,1
+2061,1,Madhouse,1
+2062,1,Kyoto Animation,1
+2063,1,A-1 Pictures,1
+2064,1,MAPPA,1
+2064,2,David Production,0
+2065,1,Kyoto Animation,1
+2065,2,White Fox,0
+2066,1,Lerche,1
+2066,2,Kinema Citrus,0
+2067,1,Lerche,1
+2068,1,Shaft,1
+2068,2,Toei Animation,0
+2069,1,J.C.Staff,1
+2069,2,MAPPA,0
+2070,1,Sunrise,1
+2070,2,Kyoto Animation,0
+2071,1,Madhouse,1
+2072,1,J.C.Staff,1
+2073,1,Silver Link.,1
+2074,1,Trigger,1
+2074,2,Silver Link.,0
+2075,1,Shaft,1
+2076,1,P.A. Works,1
+2077,1,Studio Ghibli,1
+2078,1,CloverWorks,1
+2079,1,Bones,1
+2079,2,MAPPA,0
+2080,1,Kinema Citrus,1
+2081,1,Kyoto Animation,1
+2082,1,Madhouse,1
+2082,2,Bones,0
+2083,1,Kyoto Animation,1
+2084,1,Kyoto Animation,1
+2084,2,Kinema Citrus,0
+2085,1,Doga Kobo,1
+2086,1,Lerche,1
+2086,2,Shaft,0
+2087,1,Doga Kobo,1
+2088,1,Shaft,1
+2089,1,TMS Entertainment,1
+2090,1,Madhouse,1
+2090,2,White Fox,0
+2091,1,Ufotable,1
+2091,2,Silver Link.,0
+2092,1,White Fox,1
+2092,2,Studio Pierrot,0
+2093,1,TMS Entertainment,1
+2094,1,Trigger,1
+2095,1,Kinema Citrus,1
+2095,2,Madhouse,0
+2096,1,Production I.G,1
+2096,2,Lerche,0
+2097,1,Doga Kobo,1
+2097,2,Toei Animation,0
+2098,1,Silver Link.,1
+2098,2,Sunrise,0
+2099,1,Doga Kobo,1
+2099,2,Kinema Citrus,0
+2100,1,Lerche,1
+2100,2,MAPPA,0
+2101,1,wit Studio,1
+2102,1,Sunrise,1
+2103,1,MAPPA,1
+2104,1,A-1 Pictures,1
+2105,1,Studio Pierrot,1
+2106,1,TMS Entertainment,1
+2107,1,TMS Entertainment,1
+2108,1,Kyoto Animation,1
+2108,2,wit Studio,0
+2109,1,Kinema Citrus,1
+2110,1,Toei Animation,1
+2110,2,David Production,0
+2111,1,CloverWorks,1
+2112,1,Production I.G,1
+2112,2,Silver Link.,0
+2113,1,Lerche,1
+2114,1,David Production,1
+2115,1,Shaft,1
+2116,1,MAPPA,1
+2116,2,Silver Link.,0
+2117,1,Sunrise,1
+2117,2,MAPPA,0
+2118,1,CloverWorks,1
+2118,2,TMS Entertainment,0
+2119,1,Studio Pierrot,1
+2120,1,Sunrise,1
+2121,1,Bones,1
+2121,2,Studio Pierrot,0
+2122,1,Studio Pierrot,1
+2123,1,P.A. Works,1
+2124,1,TMS Entertainment,1
+2125,1,Trigger,1
+2125,2,TMS Entertainment,0
+2126,1,Production I.G,1
+2126,2,Kyoto Animation,0
+2127,1,wit Studio,1
+2128,1,David Production,1
+2129,1,Bones,1
+2129,2,Kinema Citrus,0
+2130,1,Kyoto Animation,1
+2131,1,Doga Kobo,1
+2131,2,Shaft,0
+2132,1,Studio Ghibli,1
+2133,1,Lerche,1
+2133,2,Doga Kobo,0
+2134,1,Kyoto Animation,1
+2134,2,Production I.G,0
+2135,1,Studio Ghibli,1
+2135,2,David Production,0
+2136,1,Doga Kobo,1
+2137,1,A-1 Pictures,1
+2137,2,Trigger,0
+2138,1,Bones,1
+2139,1,Toei Animation,1
+2139,2,Ufotable,0
+2140,1,White Fox,1
+2140,2,Silver Link.,0
+2141,1,Shaft,1
+2142,1,TMS Entertainment,1
+2142,2,Madhouse,0
+2143,1,Bones,1
+2144,1,Lerche,1
+2144,2,White Fox,0
+2145,1,J.C.Staff,1
+2146,1,Bones,1
+2147,1,TMS Entertainment,1
+2148,1,Studio Ghibli,1
+2148,2,Kyoto Animation,0
+2149,1,Kyoto Animation,1
+2150,1,David Production,1
+2150,2,Silver Link.,0
+2151,1,J.C.Staff,1
+2151,2,Kyoto Animation,0
+2152,1,Studio Ghibli,1
+2153,1,Kyoto Animation,1
+2153,2,Toei Animation,0
+2154,1,P.A. Works,1
+2155,1,Kyoto Animation,1
+2155,2,Silver Link.,0
+2156,1,TMS Entertainment,1
+2157,1,wit Studio,1
+2158,1,Sunrise,1
+2158,2,P.A. Works,0
+2159,1,Bones,1
+2160,1,Studio Ghibli,1
+2160,2,wit Studio,0
+2161,1,Kyoto Animation,1
+2162,1,Trigger,1
+2162,2,MAPPA,0
+2163,1,wit Studio,1
+2164,1,Ufotable,1
+2164,2,Kyoto Animation,0
+2165,1,MAPPA,1
+2166,1,Kinema Citrus,1
+2166,2,Madhouse,0
+2167,1,Ufotable,1
+2168,1,Madhouse,1
+2168,2,Kinema Citrus,0
+2169,1,Kyoto Animation,1
+2169,2,J.C.Staff,0
+2170,1,Lerche,1
+2171,1,Studio Ghibli,1
+2171,2,TMS Entertainment,0
+2172,1,TMS Entertainment,1
+2172,2,MAPPA,0
+2173,1,TMS Entertainment,1
+2173,2,Bones,0
+2174,1,A-1 Pictures,1
+2174,2,CloverWorks,0
+2175,1,Sunrise,1
+2175,2,Production I.G,0
+2176,1,Production I.G,1
+2177,1,Madhouse,1
+2177,2,CloverWorks,0
+2178,1,Lerche,1
+2178,2,Studio Ghibli,0
+2179,1,White Fox,1
+2179,2,TMS Entertainment,0
+2180,1,J.C.Staff,1
+2180,2,Madhouse,0
+2181,1,Toei Animation,1
+2181,2,White Fox,0
+2182,1,Madhouse,1
+2182,2,Trigger,0
+2183,1,Lerche,1
+2183,2,Silver Link.,0
+2184,1,Production I.G,1
+2184,2,Doga Kobo,0
+2185,1,P.A. Works,1
+2186,1,Shaft,1
+2186,2,David Production,0
+2187,1,Kyoto Animation,1
+2187,2,Studio Ghibli,0
+2188,1,TMS Entertainment,1
+2188,2,Ufotable,0
+2189,1,wit Studio,1
+2189,2,Production I.G,0
+2190,1,David Production,1
+2190,2,Lerche,0
+2191,1,CloverWorks,1
+2192,1,Toei Animation,1
+2192,2,TMS Entertainment,0
+2193,1,Lerche,1
+2193,2,A-1 Pictures,0
+2194,1,Studio Pierrot,1
+2194,2,Madhouse,0
+2195,1,P.A. Works,1
+2195,2,Ufotable,0
+2196,1,Studio Pierrot,1
+2197,1,CloverWorks,1
+2197,2,Kinema Citrus,0
+2198,1,David Production,1
+2198,2,Ufotable,0
+2199,1,David Production,1
+2199,2,MAPPA,0
+2200,1,CloverWorks,1
+2200,2,J.C.Staff,0
+2201,1,White Fox,1
+2202,1,Silver Link.,1
+2203,1,Lerche,1
+2203,2,P.A. Works,0
+2204,1,TMS Entertainment,1
+2204,2,White Fox,0
+2205,1,Production I.G,1
+2206,1,TMS Entertainment,1
+2207,1,MAPPA,1
+2207,2,Shaft,0
+2208,1,Toei Animation,1
+2209,1,Silver Link.,1
+2210,1,Kinema Citrus,1
+2210,2,Production I.G,0
+2211,1,Trigger,1
+2211,2,Shaft,0
+2212,1,Production I.G,1
+2213,1,wit Studio,1
+2214,1,Bones,1
+2214,2,Kinema Citrus,0
+2215,1,CloverWorks,1
+2216,1,wit Studio,1
+2216,2,Sunrise,0
+2217,1,A-1 Pictures,1
+2217,2,Doga Kobo,0
+2218,1,Ufotable,1
+2219,1,MAPPA,1
+2220,1,wit Studio,1
+2221,1,Bones,1
+2221,2,Lerche,0
+2222,1,Madhouse,1
+2223,1,J.C.Staff,1
+2224,1,TMS Entertainment,1
+2225,1,David Production,1
+2225,2,Shaft,0
+2226,1,Kinema Citrus,1
+2226,2,Studio Pierrot,0
+2227,1,Production I.G,1
+2227,2,Sunrise,0
+2228,1,Trigger,1
+2228,2,Toei Animation,0
+2229,1,wit Studio,1
+2230,1,Trigger,1
+2230,2,J.C.Staff,0
+2231,1,White Fox,1
+2232,1,Doga Kobo,1
+2233,1,White Fox,1
+2233,2,wit Studio,0
+2234,1,Production I.G,1
+2234,2,Ufotable,0
+2235,1,Silver Link.,1
+2236,1,Shaft,1
+2237,1,David Production,1
+2238,1,Ufotable,1
+2238,2,Sunrise,0
+2239,1,Production I.G,1
+2239,2,Toei Animation,0
+2240,1,Kyoto Animation,1
+2241,1,Sunrise,1
+2242,1,Shaft,1
+2243,1,Kyoto Animation,1
+2244,1,Toei Animation,1
+2245,1,Trigger,1
+2246,1,Bones,1
+2247,1,Trigger,1
+2248,1,Silver Link.,1
+2248,2,Doga Kobo,0
+2249,1,MAPPA,1
+2249,2,Production I.G,0
+2250,1,Ufotable,1
+2250,2,wit Studio,0
+2251,1,Toei Animation,1
+2251,2,P.A. Works,0
+2252,1,Lerche,1
+2252,2,Toei Animation,0
+2253,1,A-1 Pictures,1
+2254,1,MAPPA,1
+2254,2,David Production,0
+2255,1,Madhouse,1
+2256,1,Kinema Citrus,1
+2257,1,Lerche,1
+2258,1,White Fox,1
+2259,1,J.C.Staff,1
+2260,1,Production I.G,1
+2260,2,TMS Entertainment,0
+2261,1,Studio Pierrot,1
+2262,1,Production I.G,1
+2263,1,Studio Ghibli,1
+2264,1,MAPPA,1
+2264,2,Bones,0
+2265,1,Madhouse,1
+2265,2,Sunrise,0
+2266,1,Toei Animation,1
+2266,2,White Fox,0
+2267,1,Shaft,1
+2268,1,David Production,1
+2269,1,A-1 Pictures,1
+2269,2,David Production,0
+2270,1,Madhouse,1
+2270,2,Trigger,0
+2271,1,Kinema Citrus,1
+2271,2,Madhouse,0
+2272,1,Kyoto Animation,1
+2272,2,Ufotable,0
+2273,1,A-1 Pictures,1
+2273,2,Silver Link.,0
+2274,1,Ufotable,1
+2274,2,Kyoto Animation,0
+2275,1,Sunrise,1
+2275,2,Studio Ghibli,0
+2276,1,CloverWorks,1
+2277,1,David Production,1
+2278,1,Silver Link.,1
+2278,2,A-1 Pictures,0
+2279,1,David Production,1
+2280,1,CloverWorks,1
+2281,1,Lerche,1
+2281,2,Ufotable,0
+2282,1,Lerche,1
+2282,2,White Fox,0
+2283,1,P.A. Works,1
+2283,2,A-1 Pictures,0
+2284,1,CloverWorks,1
+2285,1,Ufotable,1
+2286,1,Madhouse,1
+2286,2,Shaft,0
+2287,1,Kinema Citrus,1
+2287,2,wit Studio,0
+2288,1,J.C.Staff,1
+2289,1,Silver Link.,1
+2289,2,TMS Entertainment,0
+2290,1,Trigger,1
+2291,1,Studio Pierrot,1
+2291,2,Bones,0
+2292,1,wit Studio,1
+2292,2,Madhouse,0
+2293,1,Studio Pierrot,1
+2293,2,Trigger,0
+2294,1,A-1 Pictures,1
+2294,2,Lerche,0
+2295,1,Silver Link.,1
+2295,2,Kinema Citrus,0
+2296,1,Kinema Citrus,1
+2297,1,TMS Entertainment,1
+2298,1,CloverWorks,1
+2299,1,Lerche,1
+2300,1,Sunrise,1
+2301,1,CloverWorks,1
+2301,2,Sunrise,0
+2302,1,White Fox,1
+2303,1,Madhouse,1
+2303,2,TMS Entertainment,0
+2304,1,Toei Animation,1
+2304,2,Lerche,0
+2305,1,A-1 Pictures,1
+2305,2,Ufotable,0
+2306,1,Studio Pierrot,1
+2306,2,David Production,0
+2307,1,Silver Link.,1
+2308,1,Kinema Citrus,1
+2308,2,A-1 Pictures,0
+2309,1,Trigger,1
+2309,2,Silver Link.,0
+2310,1,Shaft,1
+2310,2,CloverWorks,0
+2311,1,Toei Animation,1
+2312,1,J.C.Staff,1
+2313,1,Lerche,1
+2313,2,A-1 Pictures,0
+2314,1,Trigger,1
+2315,1,wit Studio,1
+2315,2,Kinema Citrus,0
+2316,1,wit Studio,1
+2317,1,Bones,1
+2317,2,Lerche,0
+2318,1,David Production,1
+2319,1,Production I.G,1
+2319,2,TMS Entertainment,0
+2320,1,Toei Animation,1
+2320,2,Doga Kobo,0
+2321,1,White Fox,1
+2321,2,Toei Animation,0
+2322,1,TMS Entertainment,1
+2322,2,Kyoto Animation,0
+2323,1,A-1 Pictures,1
+2324,1,Shaft,1
+2325,1,A-1 Pictures,1
+2325,2,Sunrise,0
+2326,1,Shaft,1
+2327,1,Bones,1
+2327,2,wit Studio,0
+2328,1,Doga Kobo,1
+2329,1,Silver Link.,1
+2330,1,Studio Pierrot,1
+2330,2,P.A. Works,0
+2331,1,TMS Entertainment,1
+2332,1,CloverWorks,1
+2333,1,White Fox,1
+2334,1,Doga Kobo,1
+2335,1,White Fox,1
+2335,2,Shaft,0
+2336,1,A-1 Pictures,1
+2336,2,TMS Entertainment,0
+2337,1,wit Studio,1
+2338,1,TMS Entertainment,1
+2338,2,Sunrise,0
+2339,1,J.C.Staff,1
+2340,1,Madhouse,1
+2340,2,A-1 Pictures,0
+2341,1,J.C.Staff,1
+2342,1,Silver Link.,1
+2342,2,CloverWorks,0
+2343,1,CloverWorks,1
+2343,2,Studio Ghibli,0
+2344,1,Kyoto Animation,1
+2344,2,Kinema Citrus,0
+2345,1,Silver Link.,1
+2346,1,Shaft,1
+2347,1,Doga Kobo,1
+2347,2,David Production,0
+2348,1,Sunrise,1
+2348,2,Bones,0
+2349,1,Studio Pierrot,1
+2350,1,White Fox,1
+2351,1,Bones,1
+2352,1,Madhouse,1
+2352,2,J.C.Staff,0
+2353,1,Studio Pierrot,1
+2354,1,J.C.Staff,1
+2355,1,TMS Entertainment,1
+2355,2,Doga Kobo,0
+2356,1,Lerche,1
+2357,1,Sunrise,1
+2358,1,J.C.Staff,1
+2359,1,Lerche,1
+2359,2,Sunrise,0
+2360,1,Kyoto Animation,1
+2360,2,Kinema Citrus,0
+2361,1,Kyoto Animation,1
+2361,2,White Fox,0
+2362,1,Kinema Citrus,1
+2362,2,wit Studio,0
+2363,1,Trigger,1
+2364,1,J.C.Staff,1
+2364,2,Studio Ghibli,0
+2365,1,Studio Pierrot,1
+2365,2,Toei Animation,0
+2366,1,Madhouse,1
+2366,2,CloverWorks,0
+2367,1,A-1 Pictures,1
+2367,2,Trigger,0
+2368,1,Trigger,1
+2368,2,Lerche,0
+2369,1,Studio Ghibli,1
+2369,2,TMS Entertainment,0
+2370,1,MAPPA,1
+2370,2,wit Studio,0
+2371,1,Studio Ghibli,1
+2372,1,J.C.Staff,1
+2372,2,Studio Ghibli,0
+2373,1,Silver Link.,1
+2374,1,wit Studio,1
+2375,1,wit Studio,1
+2376,1,P.A. Works,1
+2376,2,Production I.G,0
+2377,1,J.C.Staff,1
+2377,2,Kyoto Animation,0
+2378,1,Studio Pierrot,1
+2379,1,J.C.Staff,1
+2379,2,White Fox,0
+2380,1,MAPPA,1
+2380,2,J.C.Staff,0
+2381,1,Sunrise,1
+2382,1,Trigger,1
+2382,2,J.C.Staff,0
+2383,1,Trigger,1
+2383,2,White Fox,0
+2384,1,CloverWorks,1
+2385,1,Studio Ghibli,1
+2385,2,Toei Animation,0
+2386,1,J.C.Staff,1
+2386,2,Trigger,0
+2387,1,Production I.G,1
+2387,2,Ufotable,0
+2388,1,Production I.G,1
+2388,2,A-1 Pictures,0
+2389,1,David Production,1
+2389,2,Doga Kobo,0
+2390,1,Shaft,1
+2390,2,Silver Link.,0
+2391,1,David Production,1
+2391,2,Lerche,0
+2392,1,Kyoto Animation,1
+2392,2,Ufotable,0
+2393,1,CloverWorks,1
+2394,1,Bones,1
+2394,2,wit Studio,0
+2395,1,Shaft,1
+2396,1,wit Studio,1
+2396,2,J.C.Staff,0
+2397,1,Shaft,1
+2397,2,A-1 Pictures,0
+2398,1,Toei Animation,1
+2398,2,wit Studio,0
+2399,1,CloverWorks,1
+2399,2,P.A. Works,0
+2400,1,Kyoto Animation,1
+2401,1,Lerche,1
+2402,1,MAPPA,1
+2402,2,Toei Animation,0
+2403,1,David Production,1
+2404,1,Ufotable,1
+2404,2,MAPPA,0
+2405,1,Production I.G,1
+2406,1,MAPPA,1
+2407,1,Studio Ghibli,1
+2407,2,MAPPA,0
+2408,1,Bones,1
+2408,2,Madhouse,0
+2409,1,Kinema Citrus,1
+2409,2,Doga Kobo,0
+2410,1,Doga Kobo,1
+2410,2,Silver Link.,0
+2411,1,Sunrise,1
+2412,1,Kinema Citrus,1
+2413,1,TMS Entertainment,1
+2414,1,Bones,1
+2414,2,A-1 Pictures,0
+2415,1,CloverWorks,1
+2416,1,Toei Animation,1
+2416,2,Ufotable,0
+2417,1,TMS Entertainment,1
+2417,2,Trigger,0
+2418,1,Toei Animation,1
+2419,1,Toei Animation,1
+2419,2,Silver Link.,0
+2420,1,Bones,1
+2420,2,Madhouse,0
+2421,1,TMS Entertainment,1
+2422,1,Silver Link.,1
+2423,1,J.C.Staff,1
+2424,1,Sunrise,1
+2424,2,P.A. Works,0
+2425,1,David Production,1
+2426,1,Lerche,1
+2426,2,P.A. Works,0
+2427,1,Studio Ghibli,1
+2428,1,J.C.Staff,1
+2429,1,Sunrise,1
+2429,2,Bones,0
+2430,1,Madhouse,1
+2430,2,David Production,0
+2431,1,Trigger,1
+2431,2,Doga Kobo,0
+2432,1,Bones,1
+2433,1,Lerche,1
+2433,2,A-1 Pictures,0
+2434,1,Toei Animation,1
+2434,2,David Production,0
+2435,1,Production I.G,1
+2436,1,Studio Pierrot,1
+2436,2,Trigger,0
+2437,1,White Fox,1
+2438,1,Bones,1
+2438,2,MAPPA,0
+2439,1,Shaft,1
+2439,2,MAPPA,0
+2440,1,A-1 Pictures,1
+2440,2,TMS Entertainment,0
+2441,1,wit Studio,1
+2442,1,Toei Animation,1
+2443,1,Studio Ghibli,1
+2444,1,Trigger,1
+2445,1,Ufotable,1
+2446,1,J.C.Staff,1
+2446,2,Lerche,0
+2447,1,Madhouse,1
+2447,2,White Fox,0
+2448,1,Sunrise,1
+2449,1,CloverWorks,1
+2449,2,Bones,0
+2450,1,Kinema Citrus,1
+2450,2,TMS Entertainment,0
+2451,1,Madhouse,1
+2452,1,Studio Ghibli,1
+2452,2,Shaft,0
+2453,1,Kyoto Animation,1
+2454,1,MAPPA,1
+2454,2,Lerche,0
+2455,1,Studio Pierrot,1
+2456,1,Trigger,1
+2456,2,Sunrise,0
+2457,1,wit Studio,1
+2457,2,Kinema Citrus,0
+2458,1,Studio Ghibli,1
+2458,2,Madhouse,0
+2459,1,J.C.Staff,1
+2460,1,Kyoto Animation,1
+2461,1,Studio Pierrot,1
+2462,1,David Production,1
+2462,2,Studio Pierrot,0
+2463,1,Madhouse,1
+2464,1,Ufotable,1
+2464,2,Studio Ghibli,0
+2465,1,J.C.Staff,1
+2465,2,Trigger,0
+2466,1,Ufotable,1
+2467,1,Bones,1
+2468,1,MAPPA,1
+2468,2,Doga Kobo,0
+2469,1,Lerche,1
+2470,1,Trigger,1
+2471,1,Kinema Citrus,1
+2471,2,TMS Entertainment,0
+2472,1,Kinema Citrus,1
+2473,1,Production I.G,1
+2474,1,Toei Animation,1
+2475,1,Bones,1
+2475,2,Lerche,0
+2476,1,Kinema Citrus,1
+2477,1,J.C.Staff,1
+2478,1,Bones,1
+2478,2,Madhouse,0
+2479,1,Madhouse,1
+2479,2,Lerche,0
+2480,1,White Fox,1
+2480,2,A-1 Pictures,0
+2481,1,Lerche,1
+2481,2,Kinema Citrus,0
+2482,1,MAPPA,1
+2482,2,A-1 Pictures,0
+2483,1,CloverWorks,1
+2483,2,Kinema Citrus,0
+2484,1,CloverWorks,1
+2484,2,David Production,0
+2485,1,Ufotable,1
+2486,1,Shaft,1
+2486,2,Studio Ghibli,0
+2487,1,Production I.G,1
+2487,2,A-1 Pictures,0
+2488,1,Bones,1
+2488,2,Doga Kobo,0
+2489,1,Toei Animation,1
+2490,1,Silver Link.,1
+2491,1,Madhouse,1
+2492,1,P.A. Works,1
+2493,1,Silver Link.,1
+2493,2,Studio Pierrot,0
+2494,1,wit Studio,1
+2494,2,Shaft,0
+2495,1,Sunrise,1
+2495,2,White Fox,0
+2496,1,Silver Link.,1
+2496,2,CloverWorks,0
+2497,1,Madhouse,1
+2497,2,Studio Ghibli,0
+2498,1,David Production,1
+2498,2,MAPPA,0
+2499,1,P.A. Works,1
+2499,2,Kyoto Animation,0
+2500,1,Kyoto Animation,1
+2500,2,Silver Link.,0
+2501,1,MAPPA,1
+2501,2,Bones,0
+2502,1,Shaft,1
+2503,1,J.C.Staff,1
+2503,2,P.A. Works,0
+2504,1,Bones,1
+2504,2,Toei Animation,0
+2505,1,CloverWorks,1
+2505,2,Studio Ghibli,0
+2506,1,P.A. Works,1
+2507,1,wit Studio,1
+2508,1,Ufotable,1
+2509,1,MAPPA,1
+2509,2,Ufotable,0
