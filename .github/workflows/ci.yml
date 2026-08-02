@@ -26,7 +26,8 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          uv sync
+          uv venv
+          uv pip install -r requirements.txt
 
       - name: Run Ruff Linter
         run: |
