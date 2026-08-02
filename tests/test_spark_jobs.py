@@ -83,10 +83,10 @@ class TestSparkJobs(unittest.TestCase):
         from processing.spark_jobs.clean_ratings import clean_ratings, get_ratings_schema
 
         ratings_data = [
-            (101, 1, 10, "completed", 26),
-            (101, 1, 9, "completed", 26),
-            (102, 1, 0, "dropped", 2),
-            (103, 2, 11, "watching", 12),
+            (101, 1, 10, "completed", 26, None),
+            (101, 1, 9, "completed", 26, None),
+            (102, 1, 0, "dropped", 2, None),
+            (103, 2, 11, "watching", 12, None),
         ]
 
         ratings_schema = get_ratings_schema()
