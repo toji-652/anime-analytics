@@ -1,0 +1,24 @@
+# Byte-compiled / Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Streamlit local settings & agent skills symlinks
+.streamlit/secrets.toml
+.agents/skills/developing-with-streamlit/
+.claude/skills/developing-with-streamlit/
+
+# Testing & IDE
+.pytest_cache/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log

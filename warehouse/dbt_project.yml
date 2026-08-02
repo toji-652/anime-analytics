@@ -1,0 +1,32 @@
+name: 'anime_warehouse'
+version: '1.0.0'
+config-version: 2
+
+profile: 'anime_postgres'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+models:
+  anime_warehouse:
+    staging:
+      +schema: staging
+      +materialized: view
+    intermediate:
+      +schema: intermediate
+      +materialized: view
+    marts:
+      core:
+        +schema: marts
+        +materialized: table
+      aggregates:
+        +schema: marts
+        +materialized: table

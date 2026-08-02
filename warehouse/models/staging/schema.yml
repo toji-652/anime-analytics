@@ -1,0 +1,31 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    tables:
+      - name: anime_metadata
+      - name: anime_ratings
+      - name: anime_genres
+      - name: anime_studios
+
+models:
+  - name: stg_anime
+    description: "Staging model for anime metadata"
+    columns:
+      - name: anime_id
+        tests:
+          - not_null
+  - name: stg_ratings
+    description: "Staging model for user ratings"
+    columns:
+      - name: user_key_hash
+        tests:
+          - not_null
+      - name: anime_id
+        tests:
+          - not_null
+  - name: stg_genres
+    description: "Staging model for anime genres"
+  - name: stg_studios
+    description: "Staging model for anime studios"

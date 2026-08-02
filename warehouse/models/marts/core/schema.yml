@@ -1,0 +1,96 @@
+version: 2
+
+models:
+  - name: dim_anime
+    description: "Core anime dimension"
+    columns:
+      - name: anime_key
+        tests:
+          - unique
+          - not_null
+      - name: mal_id
+        tests:
+          - unique
+          - not_null
+
+  - name: dim_studio
+    description: "Studio dimension"
+    columns:
+      - name: studio_key
+        tests:
+          - unique
+          - not_null
+
+  - name: dim_genre
+    description: "Genre dimension"
+    columns:
+      - name: genre_key
+        tests:
+          - unique
+          - not_null
+
+  - name: dim_user
+    description: "User dimension"
+    columns:
+      - name: user_key
+        tests:
+          - unique
+          - not_null
+
+  - name: bridge_anime_genre
+    description: "Many-to-many bridge for anime and genres"
+    columns:
+      - name: anime_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_anime')
+              field: anime_key
+      - name: genre_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_genre')
+              field: genre_key
+
+  - name: bridge_anime_studio
+    description: "Many-to-many bridge for anime and studios"
+    columns:
+      - name: anime_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_anime')
+              field: anime_key
+      - name: studio_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_studio')
+              field: studio_key
+
+  - name: fact_user_ratings
+    description: "Fact table for user rating events"
+    columns:
+      - name: user_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_user')
+              field: user_key
+      - name: anime_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_anime')
+              field: anime_key
+
+  - name: fact_anime_stats
+    description: "Fact table for time-series anime metrics"
+    columns:
+      - name: anime_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_anime')
+              field: anime_key

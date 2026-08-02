@@ -1,0 +1,12 @@
+genre_id,genre_name,parent_category,genre_type
+1,Action,Action & Adventure,genre
+2,Adventure,Action & Adventure,genre
+4,Comedy,Comedy & Slice of Life,genre
+8,Drama,Drama & Romance,genre
+10,Fantasy,Fantasy & Sci-Fi,genre
+14,Horror,Horror & Mystery,genre
+22,Romance,Drama & Romance,genre
+24,Sci-Fi,Fantasy & Sci-Fi,genre
+36,Slice of Life,Comedy & Slice of Life,genre
+37,Supernatural,Fantasy & Sci-Fi,genre
+62,Isekai,Fantasy & Sci-Fi,theme
