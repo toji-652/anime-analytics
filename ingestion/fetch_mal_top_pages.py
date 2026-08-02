@@ -11,10 +11,9 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")
 
 DB_PATH = "warehouse/anime_analytics.db"
 
-def fetch_top_mal_pages(max_pages=10):
-    """Fetches real official MAL anime entries sequentially page by page from Jikan v4 /top/anime."""
+def fetch_top_mal_pages(max_pages=5):
+    """Fetches real official MAL anime entries page by page and upserts them into dim_anime."""
     print(f"📡 Fetching top {max_pages} pages of real MAL anime entries from Jikan v4 API...")
-    print("=" * 70)
     
     client = httpx.Client(timeout=5.0)
     fetched_anime = []
@@ -45,84 +44,37 @@ def fetch_top_mal_pages(max_pages=10):
                         "studios": json.dumps([{"mal_id": s.get("mal_id"), "name": s.get("name")} for s in item.get("studios", [])]),
                     }
                     fetched_anime.append(record)
-                print(f"  ✓ Page {page:2d}/{max_pages}: Fetched {len(data)} anime entries (Total so far: {len(fetched_anime)})")
-            elif res.status_code == 429:
-                print(f"  ⚠️ Rate limited on page {page}, sleeping 2s...")
-                time.sleep(2.0)
-                continue
-            else:
-                print(f"  ⚠️ Page {page} returned status {res.status_code}")
+                print(f"  ✓ Page {page:2d}/{max_pages}: Fetched {len(data)} anime entries")
+            time.sleep(0.5)
         except Exception as e:
             print(f"  ⚠️ Page {page} failed: {e}")
             
-        time.sleep(0.5) # Politeness API delay
-        
     df_anime = pd.DataFrame(fetched_anime)
-    print(f"\n✅ Successfully fetched {len(df_anime)} official real MAL anime titles!")
-    
     if df_anime.empty:
         return
         
-    # Update warehouse database
     conn = sqlite3.connect(DB_PATH)
+    cur = conn.cursor()
     
-    # Load into raw, staging, dim_anime
-    df_anime.to_sql("raw_anime_metadata", conn, if_exists="replace", index=False)
-    df_anime.to_sql("stg_anime", conn, if_exists="replace", index=False)
-    
-    df_dim = df_anime.copy()
-    df_dim["anime_key"] = df_dim.index + 1
-    df_dim["valid_from"] = "2026-01-01"
-    df_dim["valid_to"] = None
-    df_dim["is_current"] = 1
-    df_dim.to_sql("dim_anime", conn, if_exists="replace", index=False)
-    
-    # Process Genres & Studios Bridges
-    genre_rows = []
-    studio_rows = []
-    
+    # Upsert into dim_anime so existing 2,500 titles are preserved
     for _, row in df_anime.iterrows():
-        aid = row["mal_id"]
-        try:
-            glist = json.loads(row["genres"])
-            for gidx, g in enumerate(glist):
-                genre_rows.append({"anime_id": aid, "genre_id": g["mal_id"], "genre_name": g["name"], "is_primary_genre": 1 if gidx == 0 else 0})
-        except Exception:
-            pass
-            
-        try:
-            slist = json.loads(row["studios"])
-            for sidx, s in enumerate(slist):
-                studio_rows.append({"anime_id": aid, "studio_id": s["mal_id"], "studio_name": s["name"], "is_primary_studio": 1 if sidx == 0 else 0})
-        except Exception:
-            pass
-
-    df_bridge_genre = pd.DataFrame(genre_rows)
-    df_bridge_studio = pd.DataFrame(studio_rows)
-    
-    df_dim_genre = df_bridge_genre[["genre_id", "genre_name"]].drop_duplicates()
-    df_dim_studio = df_bridge_studio[["studio_id", "studio_name"]].drop_duplicates()
-
-    df_dim_genre.to_sql("dim_genre", conn, if_exists="replace", index=False)
-    df_dim_studio.to_sql("dim_studio", conn, if_exists="replace", index=False)
-    df_bridge_genre.to_sql("bridge_anime_genre", conn, if_exists="replace", index=False)
-    df_bridge_studio.to_sql("bridge_anime_studio", conn, if_exists="replace", index=False)
-    
-    # Update scorecard
-    global_mean = df_anime["score"].mean()
-    m_threshold = 50000.0
-    df_scorecard = df_anime.copy()
-    df_scorecard["bayesian_weighted_score"] = df_scorecard.apply(
-        lambda r: ((r["scored_by"] / (r["scored_by"] + m_threshold)) * r["score"]) +
-                  ((m_threshold / (r["scored_by"] + m_threshold)) * global_mean),
-        axis=1
-    )
-    df_scorecard.to_sql("agg_anime_scorecard", conn, if_exists="replace", index=False)
-    
+        cur.execute("""
+            INSERT INTO dim_anime (mal_id, title, title_english, type, source, episodes, status, score, scored_by, rank, popularity, members, favorites, synopsis, genres, studios, valid_from, is_current)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, '2026-01-01', 1)
+            ON CONFLICT(mal_id) DO UPDATE SET
+                score=excluded.score,
+                scored_by=excluded.scored_by,
+                members=excluded.members,
+                popularity=excluded.popularity;
+        """, (
+            row["mal_id"], row["title"], row["title_english"], row["type"], row["source"], row["episodes"],
+            row["status"], row["score"], row["scored_by"], row["rank"], row["popularity"], row["members"],
+            row["favorites"], row["synopsis"], row["genres"], row["studios"]
+        ))
+        
     conn.commit()
     conn.close()
-    
-    print("🎉 Warehouse database successfully updated with official MAL entries!")
+    print("🎉 Warehouse successfully updated with official MAL entries without losing existing data!")
 
 if __name__ == "__main__":
-    fetch_top_mal_pages(max_pages=5)
+    fetch_top_mal_pages(max_pages=2)

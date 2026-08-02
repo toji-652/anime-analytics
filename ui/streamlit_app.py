@@ -64,13 +64,26 @@ st.markdown("""
 API_BASE_URL = os.getenv("API_BASE_URL", "http://localhost:8000")
 DB_PATH = "warehouse/anime_analytics.db"
 
-# Auto-initialize database on cloud deployment if DB file doesn't exist
-if not os.path.exists(DB_PATH):
-    try:
-        from warehouse.load_full_catalogue import generate_full_mal_catalogue
-        generate_full_mal_catalogue()
-    except Exception:
-        pass
+# Auto-initialize full database on cloud deployment if missing or incomplete
+def ensure_database_populated():
+    if not os.path.exists(DB_PATH):
+        try:
+            from warehouse.load_full_catalogue import generate_full_mal_catalogue
+            generate_full_mal_catalogue()
+        except Exception:
+            pass
+    else:
+        try:
+            conn = sqlite3.connect(DB_PATH)
+            count = conn.execute("SELECT COUNT(*) FROM dim_anime").fetchone()[0]
+            conn.close()
+            if count < 500:
+                from warehouse.load_full_catalogue import generate_full_mal_catalogue
+                generate_full_mal_catalogue()
+        except Exception:
+            pass
+
+ensure_database_populated()
 
 @st.cache_data(ttl=30)
 def get_db_tables():
